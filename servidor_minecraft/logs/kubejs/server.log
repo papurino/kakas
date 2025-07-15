@@ -1,120 +1,121 @@
-[22:25:25] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
-[22:25:25] [INIT] Loaded plugins:
-[22:25:25] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
-[22:25:25] [INIT] - dev.latvian.mods.kubejs.integration.forge.gamestages.GameStagesIntegration
-[22:25:25] [INIT] - com.lowdragmc.lowdraglib.kjs.LDLibKubeJSPlugin
-[22:25:25] [INIT] - io.github.mortuusars.exposure.integration.kubejs.ExposureJSPlugin
-[22:25:25] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
-[22:25:25] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbchunks.kubejs.FTBChunksKubeJSPlugin
-[22:25:25] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
-[22:25:25] [INIT] - top.theillusivec4.champions.common.integration.kubejs.ChampionsKubeJSPlugin
-[22:25:25] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
-[22:25:25] [INIT] - snownee.lychee.compat.kubejs.LycheeKubeJSPlugin
-[22:25:25] [INIT] - net.liopyu.entityjs.EntityJSPlugin
-[22:25:25] [INIT] - com.almostreliable.morejs.Plugin
-[22:25:25] [INIT] - qinomed.kubejsdelight.KubeJSDelightPlugin
-[22:25:25] [INIT] - com.almostreliable.lootjs.kube.LootJSPlugin
-[22:25:25] [INIT] - com.blakebr0.cucumber.compat.kubejs.CucumberKubeJSPlugin
-[22:25:25] [INIT] - com.almostreliable.ponderjs.KubePlugin
-[22:25:27] [INFO] Loaded script server_scripts:personal_bodyguard_behavior2.js in 0.005 s
-[22:25:27] [INFO] Loaded script server_scripts:personal_bodyguard_behavior.js in 0.003 s
-[22:25:27] [INFO] Loaded script server_scripts:personal_bodyguard_behavior4.js in 0.002 s
-[22:25:27] [INFO] Loaded script server_scripts:personal_bodyguard_behavior3.js in 0.003 s
-[22:25:27] [INFO] Loaded script server_scripts:waypoint_biome_grant.js in 0.008 s
-[22:25:27] [INFO] Loaded script server_scripts:pocketwatch.js in 0.002 s
-[22:25:27] [INFO] Loaded script server_scripts:structure_locator.js in 0.001 s
-[22:25:27] [INFO] Loaded script server_scripts:Common/Recipes/integrated_suite.js in 0.001 s
-[22:25:27] [INFO] Loaded script server_scripts:Common/Recipes/create/create_util.js in 0.001 s
-[22:25:27] [INFO] Loaded script server_scripts:Common/Recipes/create/ore_processing.js in 0.001 s
-[22:25:27] [INFO] Loaded script server_scripts:Common/Recipes/tiab.js in 0.001 s
-[22:25:27] [INFO] Loaded script server_scripts:Common/Recipes/waystones.js in 0.004 s
-[22:25:27] [INFO] Loaded script server_scripts:Common/Recipes/tag_alt_recipes.js in 0.001 s
-[22:25:27] [INFO] Loaded script server_scripts:Common/Recipes/ars_nouveau/ars_util.js in 0.001 s
-[22:25:27] [INFO] Loaded script server_scripts:Common/Recipes/ars_nouveau/warp_indexes.js in 0.001 s
-[22:25:27] [INFO] Loaded script server_scripts:Common/Recipes/hexcasting.js in 0.0 s
-[22:25:27] [INFO] Loaded script server_scripts:Common/Recipes/remove.js in 0.003 s
-[22:25:27] [INFO] Loaded script server_scripts:Common/Recipes/eternal_engine.js in 0.003 s
-[22:25:27] [INFO] Loaded script server_scripts:Common/Recipes/recall_potion.js in 0.001 s
-[22:25:27] [INFO] Loaded script server_scripts:Common/Recipes/occultism/crusher_spirit.js in 0.007 s
-[22:25:27] [INFO] Loaded script server_scripts:Common/Recipes/occultism/miner_spirit.js in 0.0 s
-[22:25:27] [INFO] Loaded script server_scripts:Common/Recipes/occultism/occultism_util.js in 0.002 s
-[22:25:27] [INFO] Loaded script server_scripts:Common/Recipes/occultism/crafting.js in 0.001 s
-[22:25:27] [INFO] Loaded script server_scripts:Common/Recipes/botania/botania_util.js in 0.003 s
-[22:25:27] [INFO] Loaded script server_scripts:Common/Recipes/botania/corporea.js in 0.003 s
-[22:25:27] [INFO] Loaded script server_scripts:Common/Recipes/relics.js in 0.0 s
-[22:25:27] [INFO] Loaded script server_scripts:Common/Recipes/thermal/machine_parts.js in 0.001 s
-[22:25:27] [INFO] Loaded script server_scripts:Common/tags/sophisticated_backpacks.js in 0.0 s
-[22:25:27] [INFO] Loaded script server_scripts:Common/tags/capture_blacklist.js in 0.001 s
-[22:25:27] [INFO] Loaded script server_scripts:Common/tags/ars_nouveau.js in 0.001 s
-[22:25:27] [INFO] Loaded script server_scripts:Common/tags/FTB_chunk_tags.js in 0.0 s
-[22:25:27] [INFO] Loaded script server_scripts:Common/tags/botania.js in 0.001 s
-[22:25:27] [INFO] Loaded script server_scripts:Common/tags/ae2.js in 0.0 s
-[22:25:27] [INFO] Loaded script server_scripts:Common/tags/ars_elemental.js in 0.0 s
-[22:25:27] [INFO] Loaded script server_scripts:Common/tags/mce2_custom.js in 0.002 s
-[22:25:27] [INFO] Common/dimensional_effects.js#2: Loaded Java class 'net.minecraft.world.effect.MobEffectInstance'
-[22:25:27] [INFO] Common/dimensional_effects.js#3: Loaded Java class 'java.util.HashMap'
-[22:25:27] [INFO] Loaded script server_scripts:Common/dimensional_effects.js in 0.008 s
-[22:25:27] [INFO] Loaded script server_scripts:soul_stone_behavior.js in 0.001 s
-[22:25:27] [INFO] Loaded script server_scripts:palantir_behavior.js in 0.002 s
-[22:25:27] [INFO] Loaded script server_scripts:Compatibility/unification.js in 0.0 s
-[22:25:27] [INFO] Loaded script server_scripts:structure_locator_nether.js in 0.0 s
-[22:25:27] [INFO] Loaded script server_scripts:personal_bodyguard_behavior1.js in 0.002 s
-[22:25:27] [INFO] Loaded script server_scripts:contract_behavior.js in 0.001 s
-[22:25:27] [INFO] Loaded 42/42 KubeJS server scripts in 0.124 s with 0 errors and 0 warnings
-[22:25:27] [INFO] Scripts loaded
-[22:25:27] [INFO] Initializing recipe event...
-[22:25:32] [INFO] [minecraft:entity_type] Found 466 tags, added 74 objects, removed 0 objects
-[22:25:33] [INFO] [minecraft:worldgen/structure] Found 190 tags, added 2 objects, removed 0 objects
-[22:25:33] [INFO] [minecraft:block] Found 1987 tags, added 5 objects, removed 0 objects
-[22:25:34] [INFO] [minecraft:item] Found 3496 tags, added 153 objects, removed 0 objects
-[22:25:37] [INFO] Processing recipes...
-[22:25:37] [WARN] Failed to parse recipe 'cataclysm:stonecutting/azure_seastone_brick_stair_from_stonecutting[minecraft:stonecutting]'! Falling back to vanilla: ItemStack 'result' can't be empty!
-[22:25:37] [WARN] Failed to parse recipe 'thegreatbelow:primordial_pickaxe[minecraft:crafting_shaped]'! Falling back to vanilla: ItemStack 'result' can't be empty!
-[22:25:37] [WARN] Failed to parse recipe 'endrem:witch_eye[minecraft:crafting_shapeless]'! Falling back to vanilla: ItemStack 'result' can't be empty!
-[22:25:38] [WARN] Failed to parse recipe 'cratedelight:minecraft/crafting/apple_crate[minecraft:crafting_shaped]'! Falling back to vanilla: ItemStack 'result' can't be empty!
-[22:25:39] [WARN] Failed to parse recipe 'cratedelight:minecraft/crafting/salmon_crate[minecraft:crafting_shaped]'! Falling back to vanilla: ItemStack 'result' can't be empty!
-[22:25:39] [WARN] Failed to parse recipe 'cratedelight:minecraft/crafting/glowberry_crate[minecraft:crafting_shaped]'! Falling back to vanilla: ItemStack 'result' can't be empty!
-[22:25:39] [WARN] Failed to parse recipe 'cratedelight:minecraft/crafting/cod_crate[minecraft:crafting_shaped]'! Falling back to vanilla: ItemStack 'result' can't be empty!
-[22:25:39] [WARN] Failed to parse recipe 'endrem:exotic_eye[minecraft:crafting_shaped]'! Falling back to vanilla: ItemStack 'result' can't be empty!
-[22:25:39] [WARN] Failed to parse recipe 'ratatouille:smoking/solid_sugar_block[minecraft:smoking]'! Falling back to vanilla: ItemStack 'result' can't be empty!
-[22:25:40] [WARN] Failed to parse recipe 'cbc_nukes:nuke_shell[create:mechanical_crafting]'! Falling back to vanilla: ItemStack 'result' can't be empty!
-[22:25:40] [WARN] Failed to parse recipe 'cratedelight:minecraft/crafting/berry_crate[minecraft:crafting_shaped]'! Falling back to vanilla: ItemStack 'result' can't be empty!
-[22:25:40] [WARN] Failed to parse recipe 'netherexp:stonecutting/from_pale_soul_slate/indented[minecraft:stonecutting]'! Falling back to vanilla: ItemStack 'result' can't be empty!
-[22:25:40] [WARN] Failed to parse recipe 'shieldexp:griefer_shield[minecraft:crafting_shaped]'! Falling back to vanilla: ItemStack 'result' can't be empty!
-[22:25:40] [INFO] Found 32525 recipes in 3.751 s
-[22:25:41] [INFO] Common/Recipes/occultism/occultism_util.js#45: {type: occultism:ritual, result: 1 stable_wormhole, activation_item: 1 book_of_binding_bound_foliot, ingredients: [1 wormhole_frame, 1 iesnium_dust, 1 scryers_crystal, 1 iesnium_dust], pentacle_id: occultism:craft_foliot, duration: 200.0, ritual_dummy: 1 ritual_dummy/craft_stable_wormhole, ritual_type: occultism:craft} [dev.latvian.mods.rhino.NativeObject]
-[22:25:41] [INFO] Common/Recipes/occultism/occultism_util.js#45: {type: occultism:ritual, result: 1 storage_remote, activation_item: 1 book_of_binding_bound_djinni, ingredients: [1 storage_remote_inert, 1 warp_stone, 1 elite_control_circuit, 1 echo_shard], pentacle_id: occultism:craft_djinni, duration: 200.0, ritual_dummy: 1 ritual_dummy/craft_storage_remote, ritual_type: occultism:craft} [dev.latvian.mods.rhino.NativeObject]
-[22:25:41] [INFO] Common/Recipes/occultism/occultism_util.js#45: {type: occultism:ritual, result: 1 storage_stabilizer_tier1, activation_item: 1 book_of_binding_bound_foliot, ingredients: [1 otherstone_pedestal, {tag: forge:storage_blocks/bronze}, 1 blaze_powder, 1 spirit_attuned_gem], pentacle_id: occultism:craft_foliot, duration: 200.0, ritual_dummy: 1 ritual_dummy/craft_stabilizer_tier1, ritual_type: occultism:craft} [dev.latvian.mods.rhino.NativeObject]
-[22:25:41] [INFO] Common/Recipes/occultism/occultism_util.js#45: {type: occultism:ritual, result: 1 storage_stabilizer_tier3, activation_item: 1 book_of_binding_bound_afrit, ingredients: [1 storage_stabilizer_tier2, {tag: forge:storage_blocks/lumium}, 1 life_essence, 1 spirit_attuned_crystal], pentacle_id: occultism:craft_afrit, duration: 200.0, ritual_dummy: 1 ritual_dummy/craft_stabilizer_tier3, ritual_type: occultism:craft} [dev.latvian.mods.rhino.NativeObject]
-[22:25:41] [INFO] Posted recipe events in 174.8 ms
-[22:25:41] [WARN] Error parsing recipe endrem:exotic_eye[minecraft:crafting_shaped]: {"type":"minecraft:crafting_shaped","pattern":["BCF","GEG","HCT"],"key":{"F":{"item":"minecraft:fire_coral"},"T":{"item":"minecraft:tube_coral"},"H":{"item":"minecraft:horn_coral"},"B":{"item":"minecraft:bubble_coral"},"E":{"item":"minecraft:ender_eye"},"G":{"item":"minecraft:glow_ink_sac"},"C":{"item":"minecraft:conduit"}},"result":{"item":"minecraft:air"}}: Invalid item: minecraft:air
-[22:25:41] [WARN] Error parsing recipe cratedelight:minecraft/crafting/berry_crate[minecraft:crafting_shaped]: {"type":"minecraft:crafting_shaped","pattern":["###","###","###"],"key":{"#":{"item":"minecraft:sweet_berries"}},"result":{"item":"cratedelight:berry_crate"}}: Unknown item 'cratedelight:berry_crate'
-[22:25:41] [WARN] Error parsing recipe ratatouille:smoking/solid_sugar_block[minecraft:smoking]: {"type":"minecraft:smoking","cookingtime":100,"experience":0.0,"ingredient":{"item":"ratatouille:sugar_block"},"result":{"item":"ratatouille:solid_sugar_block"}}: Unknown item 'ratatouille:sugar_block'
-[22:25:41] [WARN] Error parsing recipe thermal:compat/tconstruct/press_tconstruct_blood_slime_3x3_packing[thermal:press]: {"type":"thermal:press","ingredients":[{"item":"tconstruct:blood_slime_ball","count":9},{"item":"thermal:press_packing_3x3_die"}],"result":[{"item":"tconstruct:blood_slime"}],"energy":400,"conditions":[{"type":"thermal:flag","flag":"mod_tconstruct"}]}: Invalid Thermal Series recipe: thermal:compat/tconstruct/press_tconstruct_blood_slime_3x3_packing
+[23:02:12] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[23:02:12] [INIT] Loaded plugins:
+[23:02:12] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[23:02:12] [INIT] - dev.latvian.mods.kubejs.integration.forge.gamestages.GameStagesIntegration
+[23:02:12] [INIT] - com.lowdragmc.lowdraglib.kjs.LDLibKubeJSPlugin
+[23:02:12] [INIT] - io.github.mortuusars.exposure.integration.kubejs.ExposureJSPlugin
+[23:02:12] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
+[23:02:12] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbchunks.kubejs.FTBChunksKubeJSPlugin
+[23:02:12] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
+[23:02:12] [INIT] - top.theillusivec4.champions.common.integration.kubejs.ChampionsKubeJSPlugin
+[23:02:12] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
+[23:02:12] [INIT] - snownee.lychee.compat.kubejs.LycheeKubeJSPlugin
+[23:02:12] [INIT] - net.liopyu.entityjs.EntityJSPlugin
+[23:02:12] [INIT] - com.almostreliable.morejs.Plugin
+[23:02:12] [INIT] - qinomed.kubejsdelight.KubeJSDelightPlugin
+[23:02:12] [INIT] - com.almostreliable.lootjs.kube.LootJSPlugin
+[23:02:12] [INIT] - com.blakebr0.cucumber.compat.kubejs.CucumberKubeJSPlugin
+[23:02:12] [INIT] - com.almostreliable.ponderjs.KubePlugin
+[23:02:13] [INFO] Loaded script server_scripts:personal_bodyguard_behavior2.js in 0.004 s
+[23:02:13] [INFO] Loaded script server_scripts:personal_bodyguard_behavior.js in 0.002 s
+[23:02:13] [INFO] Loaded script server_scripts:personal_bodyguard_behavior4.js in 0.002 s
+[23:02:13] [INFO] Loaded script server_scripts:personal_bodyguard_behavior3.js in 0.004 s
+[23:02:13] [INFO] Loaded script server_scripts:waypoint_biome_grant.js in 0.005 s
+[23:02:13] [INFO] Loaded script server_scripts:pocketwatch.js in 0.001 s
+[23:02:13] [INFO] Loaded script server_scripts:structure_locator.js in 0.001 s
+[23:02:13] [INFO] Loaded script server_scripts:Common/Recipes/integrated_suite.js in 0.0 s
+[23:02:13] [INFO] Loaded script server_scripts:Common/Recipes/create/create_util.js in 0.001 s
+[23:02:13] [INFO] Loaded script server_scripts:Common/Recipes/create/ore_processing.js in 0.001 s
+[23:02:13] [INFO] Loaded script server_scripts:Common/Recipes/tiab.js in 0.0 s
+[23:02:13] [INFO] Loaded script server_scripts:Common/Recipes/waystones.js in 0.0 s
+[23:02:13] [INFO] Loaded script server_scripts:Common/Recipes/tag_alt_recipes.js in 0.001 s
+[23:02:13] [INFO] Loaded script server_scripts:Common/Recipes/ars_nouveau/ars_util.js in 0.001 s
+[23:02:13] [INFO] Loaded script server_scripts:Common/Recipes/ars_nouveau/warp_indexes.js in 0.001 s
+[23:02:13] [INFO] Loaded script server_scripts:Common/Recipes/hexcasting.js in 0.0 s
+[23:02:13] [INFO] Loaded script server_scripts:Common/Recipes/remove.js in 0.002 s
+[23:02:13] [INFO] Loaded script server_scripts:Common/Recipes/eternal_engine.js in 0.0 s
+[23:02:13] [INFO] Loaded script server_scripts:Common/Recipes/recall_potion.js in 0.0 s
+[23:02:13] [INFO] Loaded script server_scripts:Common/Recipes/occultism/crusher_spirit.js in 0.005 s
+[23:02:13] [INFO] Loaded script server_scripts:Common/Recipes/occultism/miner_spirit.js in 0.001 s
+[23:02:13] [INFO] Loaded script server_scripts:Common/Recipes/occultism/occultism_util.js in 0.002 s
+[23:02:13] [INFO] Loaded script server_scripts:Common/Recipes/occultism/crafting.js in 0.002 s
+[23:02:13] [INFO] Loaded script server_scripts:Common/Recipes/botania/botania_util.js in 0.002 s
+[23:02:13] [INFO] Loaded script server_scripts:Common/Recipes/botania/corporea.js in 0.003 s
+[23:02:13] [INFO] Loaded script server_scripts:Common/Recipes/relics.js in 0.001 s
+[23:02:13] [INFO] Loaded script server_scripts:Common/Recipes/thermal/machine_parts.js in 0.001 s
+[23:02:13] [INFO] Loaded script server_scripts:Common/tags/sophisticated_backpacks.js in 0.001 s
+[23:02:13] [INFO] Loaded script server_scripts:Common/tags/capture_blacklist.js in 0.001 s
+[23:02:13] [INFO] Loaded script server_scripts:Common/tags/ars_nouveau.js in 0.0 s
+[23:02:13] [INFO] Loaded script server_scripts:Common/tags/FTB_chunk_tags.js in 0.001 s
+[23:02:13] [INFO] Loaded script server_scripts:Common/tags/botania.js in 0.0 s
+[23:02:13] [INFO] Loaded script server_scripts:Common/tags/ae2.js in 0.0 s
+[23:02:13] [INFO] Loaded script server_scripts:Common/tags/ars_elemental.js in 0.001 s
+[23:02:13] [INFO] Loaded script server_scripts:Common/tags/mce2_custom.js in 0.003 s
+[23:02:13] [INFO] Common/dimensional_effects.js#2: Loaded Java class 'net.minecraft.world.effect.MobEffectInstance'
+[23:02:13] [INFO] Common/dimensional_effects.js#3: Loaded Java class 'java.util.HashMap'
+[23:02:13] [INFO] Loaded script server_scripts:Common/dimensional_effects.js in 0.008 s
+[23:02:13] [INFO] Loaded script server_scripts:soul_stone_behavior.js in 0.001 s
+[23:02:13] [INFO] Loaded script server_scripts:palantir_behavior.js in 0.002 s
+[23:02:13] [INFO] Loaded script server_scripts:Compatibility/unification.js in 0.0 s
+[23:02:13] [INFO] Loaded script server_scripts:structure_locator_nether.js in 0.001 s
+[23:02:13] [INFO] Loaded script server_scripts:personal_bodyguard_behavior1.js in 0.002 s
+[23:02:13] [INFO] Loaded script server_scripts:contract_behavior.js in 0.0 s
+[23:02:13] [INFO] Loaded 42/42 KubeJS server scripts in 0.099 s with 0 errors and 0 warnings
+[23:02:13] [INFO] Scripts loaded
+[23:02:13] [INFO] Initializing recipe event...
+[23:02:18] [INFO] [minecraft:entity_type] Found 466 tags, added 74 objects, removed 0 objects
+[23:02:18] [INFO] [minecraft:worldgen/structure] Found 190 tags, added 2 objects, removed 0 objects
+[23:02:19] [INFO] [minecraft:block] Found 1987 tags, added 5 objects, removed 0 objects
+[23:02:19] [INFO] [minecraft:item] Found 3496 tags, added 153 objects, removed 0 objects
+[23:02:22] [INFO] Processing recipes...
+[23:02:22] [WARN] Failed to parse recipe 'cataclysm:stonecutting/azure_seastone_brick_stair_from_stonecutting[minecraft:stonecutting]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[23:02:23] [WARN] Failed to parse recipe 'thegreatbelow:primordial_pickaxe[minecraft:crafting_shaped]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[23:02:23] [WARN] Failed to parse recipe 'endrem:witch_eye[minecraft:crafting_shapeless]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[23:02:23] [WARN] Failed to parse recipe 'cratedelight:minecraft/crafting/apple_crate[minecraft:crafting_shaped]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[23:02:23] [WARN] Failed to parse recipe 'cratedelight:minecraft/crafting/salmon_crate[minecraft:crafting_shaped]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[23:02:23] [WARN] Failed to parse recipe 'cratedelight:minecraft/crafting/glowberry_crate[minecraft:crafting_shaped]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[23:02:23] [WARN] Failed to parse recipe 'cratedelight:minecraft/crafting/cod_crate[minecraft:crafting_shaped]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[23:02:24] [WARN] Failed to parse recipe 'endrem:exotic_eye[minecraft:crafting_shaped]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[23:02:24] [WARN] Failed to parse recipe 'ratatouille:smoking/solid_sugar_block[minecraft:smoking]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[23:02:24] [WARN] Failed to parse recipe 'cbc_nukes:nuke_shell[create:mechanical_crafting]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[23:02:24] [WARN] Failed to parse recipe 'cratedelight:minecraft/crafting/berry_crate[minecraft:crafting_shaped]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[23:02:24] [WARN] Failed to parse recipe 'netherexp:stonecutting/from_pale_soul_slate/indented[minecraft:stonecutting]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[23:02:24] [WARN] Failed to parse recipe 'shieldexp:griefer_shield[minecraft:crafting_shaped]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[23:02:24] [INFO] Found 32525 recipes in 2.306 s
+[23:02:25] [INFO] Common/Recipes/occultism/occultism_util.js#45: {type: occultism:ritual, result: 1 stable_wormhole, activation_item: 1 book_of_binding_bound_foliot, ingredients: [1 wormhole_frame, 1 iesnium_dust, 1 scryers_crystal, 1 iesnium_dust], pentacle_id: occultism:craft_foliot, duration: 200.0, ritual_dummy: 1 ritual_dummy/craft_stable_wormhole, ritual_type: occultism:craft} [dev.latvian.mods.rhino.NativeObject]
+[23:02:25] [INFO] Common/Recipes/occultism/occultism_util.js#45: {type: occultism:ritual, result: 1 storage_remote, activation_item: 1 book_of_binding_bound_djinni, ingredients: [1 storage_remote_inert, 1 warp_stone, 1 elite_control_circuit, 1 echo_shard], pentacle_id: occultism:craft_djinni, duration: 200.0, ritual_dummy: 1 ritual_dummy/craft_storage_remote, ritual_type: occultism:craft} [dev.latvian.mods.rhino.NativeObject]
+[23:02:25] [INFO] Common/Recipes/occultism/occultism_util.js#45: {type: occultism:ritual, result: 1 storage_stabilizer_tier1, activation_item: 1 book_of_binding_bound_foliot, ingredients: [1 otherstone_pedestal, {tag: forge:storage_blocks/bronze}, 1 blaze_powder, 1 spirit_attuned_gem], pentacle_id: occultism:craft_foliot, duration: 200.0, ritual_dummy: 1 ritual_dummy/craft_stabilizer_tier1, ritual_type: occultism:craft} [dev.latvian.mods.rhino.NativeObject]
+[23:02:25] [INFO] Common/Recipes/occultism/occultism_util.js#45: {type: occultism:ritual, result: 1 storage_stabilizer_tier3, activation_item: 1 book_of_binding_bound_afrit, ingredients: [1 storage_stabilizer_tier2, {tag: forge:storage_blocks/lumium}, 1 life_essence, 1 spirit_attuned_crystal], pentacle_id: occultism:craft_afrit, duration: 200.0, ritual_dummy: 1 ritual_dummy/craft_stabilizer_tier3, ritual_type: occultism:craft} [dev.latvian.mods.rhino.NativeObject]
+[23:02:25] [INFO] Posted recipe events in 648.2 ms
+[23:02:25] [WARN] Error parsing recipe endrem:exotic_eye[minecraft:crafting_shaped]: {"type":"minecraft:crafting_shaped","pattern":["BCF","GEG","HCT"],"key":{"F":{"item":"minecraft:fire_coral"},"T":{"item":"minecraft:tube_coral"},"H":{"item":"minecraft:horn_coral"},"B":{"item":"minecraft:bubble_coral"},"E":{"item":"minecraft:ender_eye"},"G":{"item":"minecraft:glow_ink_sac"},"C":{"item":"minecraft:conduit"}},"result":{"item":"minecraft:air"}}: Invalid item: minecraft:air
+[23:02:25] [WARN] Error parsing recipe thegreatbelow:primordial_pickaxe[minecraft:crafting_shaped]: {"type":"minecraft:crafting_shaped","category":"misc","key":{"#":{"item":"minecraft:blaze_rod"},"X":{"item":"thegreatbelow:primordial_gem"}},"pattern":["XXX"," #"," # "],"result":{"count":1,"nbt":"{Enchantments:[{lvl:7s,id:\"minecraft:efficiency\"}]}","item":"thegreatbelow:primordial_pickaxe","type":"minecraft:item_nbt"},"show_notification":true}: Invalid pattern: each row must be the same width
+[23:02:25] [WARN] Error parsing recipe endrem:witch_eye[minecraft:crafting_shapeless]: {"type":"minecraft:crafting_shapeless","ingredients":[{"item":"minecraft:ender_eye"},{"item":"endrem:witch_pupil"}],"result":{"item":"minecraft:air"}}: Invalid item: minecraft:air
+[23:02:25] [WARN] Error parsing recipe ratatouille:smoking/solid_sugar_block[minecraft:smoking]: {"type":"minecraft:smoking","cookingtime":100,"experience":0.0,"ingredient":{"item":"ratatouille:sugar_block"},"result":{"item":"ratatouille:solid_sugar_block"}}: Unknown item 'ratatouille:sugar_block'
+[23:02:25] [WARN] Error parsing recipe thermal:compat/tconstruct/press_tconstruct_blood_slime_3x3_packing[thermal:press]: {"type":"thermal:press","ingredients":[{"item":"tconstruct:blood_slime_ball","count":9},{"item":"thermal:press_packing_3x3_die"}],"result":[{"item":"tconstruct:blood_slime"}],"energy":400,"conditions":[{"type":"thermal:flag","flag":"mod_tconstruct"}]}: Invalid Thermal Series recipe: thermal:compat/tconstruct/press_tconstruct_blood_slime_3x3_packing
 Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
-[22:25:41] [WARN] Error parsing recipe thermal:compat/tconstruct/bottler_tconstruct_lavawood[thermal:bottler]: {"type":"thermal:bottler","ingredients":[{"tag":"minecraft:planks"},{"fluid":"minecraft:lava","amount":100}],"result":[{"item":"tconstruct:lavawood"}],"conditions":[{"type":"thermal:flag","flag":"mod_tconstruct"}]}: Invalid Thermal Series recipe: thermal:compat/tconstruct/bottler_tconstruct_lavawood
+[23:02:25] [WARN] Error parsing recipe thermal:compat/tconstruct/bottler_tconstruct_lavawood[thermal:bottler]: {"type":"thermal:bottler","ingredients":[{"tag":"minecraft:planks"},{"fluid":"minecraft:lava","amount":100}],"result":[{"item":"tconstruct:lavawood"}],"conditions":[{"type":"thermal:flag","flag":"mod_tconstruct"}]}: Invalid Thermal Series recipe: thermal:compat/tconstruct/bottler_tconstruct_lavawood
 Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
-[22:25:41] [WARN] Error parsing recipe ratatouille:threshing/wool[ratatouille:threshing]: {"type":"ratatouille:threshing","ingredients":[{"item":"minecraft:wool"}],"processingTime":200,"results":[{"item":"minecraft:wool","count":2}]}: Unknown item 'minecraft:wool'
-[22:25:41] [WARN] Error parsing recipe thegreatbelow:primordial_pickaxe[minecraft:crafting_shaped]: {"type":"minecraft:crafting_shaped","category":"misc","key":{"#":{"item":"minecraft:blaze_rod"},"X":{"item":"thegreatbelow:primordial_gem"}},"pattern":["XXX"," #"," # "],"result":{"count":1,"nbt":"{Enchantments:[{lvl:7s,id:\"minecraft:efficiency\"}]}","item":"thegreatbelow:primordial_pickaxe","type":"minecraft:item_nbt"},"show_notification":true}: Invalid pattern: each row must be the same width
-[22:25:41] [WARN] Error parsing recipe cbc_nukes:nuke_shell[create:mechanical_crafting]: {"type":"create:mechanical_crafting","pattern":[" P ","PDP","HNH"," S "],"key":{"D":{"item":"ad_astra:desh_plate"},"P":{"tag":"forge:storage_blocks/steel"},"N":{"item":"alexscaves:nuclear_bomb"},"S":{"tag":"minecraft:wooden_slabs"},"H":{"item":"alexscaves:hazmat_block"}},"result":{"item":"cbc_nukes:nuke_shell"},"acceptMirrored":true}: Unknown item 'cbc_nukes:nuke_shell'
-[22:25:41] [WARN] Error parsing recipe endrem:witch_eye[minecraft:crafting_shapeless]: {"type":"minecraft:crafting_shapeless","ingredients":[{"item":"minecraft:ender_eye"},{"item":"endrem:witch_pupil"}],"result":{"item":"minecraft:air"}}: Invalid item: minecraft:air
-[22:25:41] [WARN] Error parsing recipe shieldexp:griefer_shield[minecraft:crafting_shaped]: {"type":"minecraft:crafting_shaped","pattern":["XXX","XIX","XXX"],"key":{"X":{"item":"savage_and_ravage:blast_proof_plating"},"I":{"item":"minecraft:stick"}},"result":{"item":"shieldexp:griefer_shield"}}: Unknown item 'savage_and_ravage:blast_proof_plating'
-[22:25:41] [WARN] Error parsing recipe thermal:compat/tconstruct/press_tconstruct_blood_slime_2x2_unpacking[thermal:press]: {"type":"thermal:press","ingredients":[{"item":"tconstruct:blood_congealed_slime"},{"item":"thermal:press_unpacking_die"}],"result":[{"item":"tconstruct:blood_slime_ball","count":4}],"energy":400,"conditions":[{"type":"thermal:flag","flag":"mod_tconstruct"}]}: Invalid Thermal Series recipe: thermal:compat/tconstruct/press_tconstruct_blood_slime_2x2_unpacking
+[23:02:25] [WARN] Error parsing recipe ratatouille:threshing/wool[ratatouille:threshing]: {"type":"ratatouille:threshing","ingredients":[{"item":"minecraft:wool"}],"processingTime":200,"results":[{"item":"minecraft:wool","count":2}]}: Unknown item 'minecraft:wool'
+[23:02:25] [WARN] Error parsing recipe vampiresdelight:brewing/orchid_tea[farmersrespite:brewing]: {"type":"farmersrespite:brewing","container":{"item":"minecraft:glass_bottle"},"cookingtime":2400,"experience":0.35,"group":"orchid_tea","ingredients":[{"item":"vampiresdelight:orchid_petals"},{"tag":"forge:milk"}],"needwater":false,"recipe_book_tab":"drinks","result":{"item":"vampiresdelight:orchid_tea"}}: No base fluid for brewing recipe
+[23:02:25] [WARN] Error parsing recipe cbc_nukes:nuke_shell[create:mechanical_crafting]: {"type":"create:mechanical_crafting","pattern":[" P ","PDP","HNH"," S "],"key":{"D":{"item":"ad_astra:desh_plate"},"P":{"tag":"forge:storage_blocks/steel"},"N":{"item":"alexscaves:nuclear_bomb"},"S":{"tag":"minecraft:wooden_slabs"},"H":{"item":"alexscaves:hazmat_block"}},"result":{"item":"cbc_nukes:nuke_shell"},"acceptMirrored":true}: Unknown item 'cbc_nukes:nuke_shell'
+[23:02:26] [WARN] Error parsing recipe thermal:compat/tconstruct/press_tconstruct_blood_slime_3x3_unpacking[thermal:press]: {"type":"thermal:press","ingredients":[{"item":"tconstruct:blood_slime"},{"item":"thermal:press_unpacking_die"}],"result":[{"item":"tconstruct:blood_slime_ball","count":9}],"energy":400,"conditions":[{"type":"thermal:flag","flag":"mod_tconstruct"}]}: Invalid Thermal Series recipe: thermal:compat/tconstruct/press_tconstruct_blood_slime_3x3_unpacking
 Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
-[22:25:41] [WARN] Error parsing recipe vampiresdelight:brewing/daisy_tea[farmersrespite:brewing]: {"type":"farmersrespite:brewing","container":{"item":"minecraft:glass_bottle"},"cookingtime":2400,"experience":0.35,"group":"daisy_tea","ingredients":[{"item":"minecraft:oxeye_daisy"},{"item":"minecraft:oxeye_daisy"}],"needwater":true,"recipe_book_tab":"drinks","result":{"item":"vampiresdelight:daisy_tea"}}: No base fluid for brewing recipe
-[22:25:42] [WARN] Error parsing recipe vampiresdelight:brewing/orchid_tea[farmersrespite:brewing]: {"type":"farmersrespite:brewing","container":{"item":"minecraft:glass_bottle"},"cookingtime":2400,"experience":0.35,"group":"orchid_tea","ingredients":[{"item":"vampiresdelight:orchid_petals"},{"tag":"forge:milk"}],"needwater":false,"recipe_book_tab":"drinks","result":{"item":"vampiresdelight:orchid_tea"}}: No base fluid for brewing recipe
-[22:25:42] [WARN] Error parsing recipe thermal:compat/tconstruct/press_tconstruct_blood_slime_2x2_packing[thermal:press]: {"type":"thermal:press","ingredients":[{"item":"tconstruct:blood_slime_ball","count":4},{"item":"thermal:press_packing_2x2_die"}],"result":[{"item":"tconstruct:blood_congealed_slime"}],"energy":400,"conditions":[{"type":"thermal:flag","flag":"mod_tconstruct"}]}: Invalid Thermal Series recipe: thermal:compat/tconstruct/press_tconstruct_blood_slime_2x2_packing
+[23:02:26] [WARN] Error parsing recipe thermal:compat/tconstruct/press_tconstruct_blood_slime_2x2_packing[thermal:press]: {"type":"thermal:press","ingredients":[{"item":"tconstruct:blood_slime_ball","count":4},{"item":"thermal:press_packing_2x2_die"}],"result":[{"item":"tconstruct:blood_congealed_slime"}],"energy":400,"conditions":[{"type":"thermal:flag","flag":"mod_tconstruct"}]}: Invalid Thermal Series recipe: thermal:compat/tconstruct/press_tconstruct_blood_slime_2x2_packing
 Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
-[22:25:42] [WARN] Error parsing recipe alexsdelight:barbecue_on_a_stick[minecraft:crafting_shapeless]: {"group":"barbecue_stick","type":"minecraft:crafting_shapeless","ingredients":[{"item":"farmersdelight:tomato"},{"item":"farmersdelight:onion"},{"item":"amfd:singular_cooked_moose_rib"},{"item":"minecraft:cooked_chicken"},{"item":"minecraft:stick"},{"item":"minecraft:stick"}],"result":{"item":"farmersdelight:barbecue_stick","count":2}}: Unknown item 'amfd:singular_cooked_moose_rib'
-[22:25:42] [WARN] Error parsing recipe cratedelight:minecraft/crafting/cod_crate[minecraft:crafting_shaped]: {"type":"minecraft:crafting_shaped","pattern":["###","###","###"],"key":{"#":{"item":"minecraft:cod"}},"result":{"item":"cratedelight:cod_crate"}}: Unknown item 'cratedelight:cod_crate'
-[22:25:42] [WARN] Error parsing recipe thermal:compat/tconstruct/press_tconstruct_blood_slime_3x3_unpacking[thermal:press]: {"type":"thermal:press","ingredients":[{"item":"tconstruct:blood_slime"},{"item":"thermal:press_unpacking_die"}],"result":[{"item":"tconstruct:blood_slime_ball","count":9}],"energy":400,"conditions":[{"type":"thermal:flag","flag":"mod_tconstruct"}]}: Invalid Thermal Series recipe: thermal:compat/tconstruct/press_tconstruct_blood_slime_3x3_unpacking
+[23:02:26] [WARN] Error parsing recipe cratedelight:minecraft/crafting/apple_crate[minecraft:crafting_shaped]: {"type":"minecraft:crafting_shaped","pattern":["###","###","###"],"key":{"#":{"item":"minecraft:apple"}},"result":{"item":"cratedelight:apple_crate"}}: Unknown item 'cratedelight:apple_crate'
+[23:02:26] [WARN] Error parsing recipe alexsdelight:barbecue_on_a_stick[minecraft:crafting_shapeless]: {"group":"barbecue_stick","type":"minecraft:crafting_shapeless","ingredients":[{"item":"farmersdelight:tomato"},{"item":"farmersdelight:onion"},{"item":"amfd:singular_cooked_moose_rib"},{"item":"minecraft:cooked_chicken"},{"item":"minecraft:stick"},{"item":"minecraft:stick"}],"result":{"item":"farmersdelight:barbecue_stick","count":2}}: Unknown item 'amfd:singular_cooked_moose_rib'
+[23:02:26] [WARN] Error parsing recipe tinkersjewelry:tools/materials/gems/hematite[tconstruct:material]: {"type":"tconstruct:material","ingredient":{"item":"tinkers_things:hematite"},"material":"tinkers_things:hematite","needed":1,"value":1}: Unknown item 'tinkers_things:hematite'
+[23:02:26] [WARN] Error parsing recipe cratedelight:minecraft/crafting/cod_crate[minecraft:crafting_shaped]: {"type":"minecraft:crafting_shaped","pattern":["###","###","###"],"key":{"#":{"item":"minecraft:cod"}},"result":{"item":"cratedelight:cod_crate"}}: Unknown item 'cratedelight:cod_crate'
+[23:02:26] [WARN] Error parsing recipe nethersdelight:cutting/hoglin_sausage_alt[farmersdelight:cutting]: {"type":"farmersdelight:cutting","ingredients":[{"item":"nethersdelight:hoglin_loin"}],"result":[{"count":2,"item":"mynethersdelight:hoglin_sausage"}],"tool":{"tag":"forge:tools/knives"}}: Unknown item 'nethersdelight:hoglin_loin'
+[23:02:26] [WARN] Error parsing recipe cratedelight:minecraft/crafting/salmon_crate[minecraft:crafting_shaped]: {"type":"minecraft:crafting_shaped","pattern":["###","###","###"],"key":{"#":{"item":"minecraft:salmon"}},"result":{"item":"cratedelight:salmon_crate"}}: Unknown item 'cratedelight:salmon_crate'
+[23:02:26] [WARN] Error parsing recipe tcompat:tools/modifiers/slotless/embellishment/wood/wood_rainbow_eucalyptus[tconstruct:swappable_modifier]: {"type":"tconstruct:swappable_modifier","allow_crystal":false,"conditions":[{"type":"forge:mod_loaded","modid":"biomeswevegone"}],"inputs":[{"tag":"biomeswevegone:rainbow_eucalyptus_planks"},{"item":"tconstruct:pattern"},{"tag":"biomeswevegone:rainbow_eucalyptus_planks"}],"result":{"name":"tconstruct:embellishment","value":"tconstruct:wood#rainbow_eucalyptus"},"tools":{"tag":"tconstruct:modifiable/embellishment/wood"},"variant_formatter":"tconstruct:material"}: null
+[23:02:26] [WARN] Error parsing recipe cratedelight:minecraft/crafting/glowberry_crate[minecraft:crafting_shaped]: {"type":"minecraft:crafting_shaped","pattern":["###","###","###"],"key":{"#":{"item":"minecraft:glow_berries"}},"result":{"item":"cratedelight:glowberry_crate"}}: Unknown item 'cratedelight:glowberry_crate'
+[23:02:26] [WARN] Error parsing recipe thermal:compat/tconstruct/press_tconstruct_blood_slime_2x2_unpacking[thermal:press]: {"type":"thermal:press","ingredients":[{"item":"tconstruct:blood_congealed_slime"},{"item":"thermal:press_unpacking_die"}],"result":[{"item":"tconstruct:blood_slime_ball","count":4}],"energy":400,"conditions":[{"type":"thermal:flag","flag":"mod_tconstruct"}]}: Invalid Thermal Series recipe: thermal:compat/tconstruct/press_tconstruct_blood_slime_2x2_unpacking
 Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
-[22:25:42] [WARN] Error parsing recipe cratedelight:minecraft/crafting/apple_crate[minecraft:crafting_shaped]: {"type":"minecraft:crafting_shaped","pattern":["###","###","###"],"key":{"#":{"item":"minecraft:apple"}},"result":{"item":"cratedelight:apple_crate"}}: Unknown item 'cratedelight:apple_crate'
-[22:25:42] [WARN] Error parsing recipe tinkersjewelry:tools/materials/gems/hematite[tconstruct:material]: {"type":"tconstruct:material","ingredient":{"item":"tinkers_things:hematite"},"material":"tinkers_things:hematite","needed":1,"value":1}: Unknown item 'tinkers_things:hematite'
-[22:25:42] [WARN] Error parsing recipe nethersdelight:cutting/hoglin_sausage_alt[farmersdelight:cutting]: {"type":"farmersdelight:cutting","ingredients":[{"item":"nethersdelight:hoglin_loin"}],"result":[{"count":2,"item":"mynethersdelight:hoglin_sausage"}],"tool":{"tag":"forge:tools/knives"}}: Unknown item 'nethersdelight:hoglin_loin'
-[22:25:42] [WARN] Error parsing recipe cratedelight:minecraft/crafting/salmon_crate[minecraft:crafting_shaped]: {"type":"minecraft:crafting_shaped","pattern":["###","###","###"],"key":{"#":{"item":"minecraft:salmon"}},"result":{"item":"cratedelight:salmon_crate"}}: Unknown item 'cratedelight:salmon_crate'
-[22:25:42] [WARN] Error parsing recipe cratedelight:minecraft/crafting/glowberry_crate[minecraft:crafting_shaped]: {"type":"minecraft:crafting_shaped","pattern":["###","###","###"],"key":{"#":{"item":"minecraft:glow_berries"}},"result":{"item":"cratedelight:glowberry_crate"}}: Unknown item 'cratedelight:glowberry_crate'
-[22:25:42] [WARN] Error parsing recipe minecraft:kjs/eternal_engine[kubejs:shaped]: {"type":"minecraft:crafting_shaped","result":{"item":"kubejs:eternal_engine","count":1},"pattern":["CEC","OAO"],"key":{"C":{"item":"ad_astra:calorite_plate"},"E":{"item":"alexscaves:enigmatic_engine"},"G":{"item":"ad_astra:ostrum_plate"},"A":{"item":"immersive_aircraft:engine"}}}: Pattern references symbol 'O' but it's not defined in the key
-[22:25:42] [WARN] Error parsing recipe thermal:rf_coil[kubejs:shaped]: {"type":"minecraft:crafting_shaped","result":{"item":"thermal:rf_coil","count":1},"pattern":["  B"," E ","B  "],"key":{"B":{"item":"create:brass_ingot"},"R":{"item":"minecraft:redstone_block"}}}: Pattern references symbol 'E' but it's not defined in the key
-[22:25:42] [INFO] Added 91 recipes, removed 89 recipes, modified 4 recipes, with 24 failed recipes in 1.705 s
-[22:26:07] [INFO] Server resource reload complete!
+[23:02:26] [WARN] Error parsing recipe vampiresdelight:brewing/daisy_tea[farmersrespite:brewing]: {"type":"farmersrespite:brewing","container":{"item":"minecraft:glass_bottle"},"cookingtime":2400,"experience":0.35,"group":"daisy_tea","ingredients":[{"item":"minecraft:oxeye_daisy"},{"item":"minecraft:oxeye_daisy"}],"needwater":true,"recipe_book_tab":"drinks","result":{"item":"vampiresdelight:daisy_tea"}}: No base fluid for brewing recipe
+[23:02:26] [WARN] Error parsing recipe cratedelight:minecraft/crafting/berry_crate[minecraft:crafting_shaped]: {"type":"minecraft:crafting_shaped","pattern":["###","###","###"],"key":{"#":{"item":"minecraft:sweet_berries"}},"result":{"item":"cratedelight:berry_crate"}}: Unknown item 'cratedelight:berry_crate'
+[23:02:27] [WARN] Error parsing recipe shieldexp:griefer_shield[minecraft:crafting_shaped]: {"type":"minecraft:crafting_shaped","pattern":["XXX","XIX","XXX"],"key":{"X":{"item":"savage_and_ravage:blast_proof_plating"},"I":{"item":"minecraft:stick"}},"result":{"item":"shieldexp:griefer_shield"}}: Unknown item 'savage_and_ravage:blast_proof_plating'
+[23:02:27] [WARN] Error parsing recipe minecraft:kjs/eternal_engine[kubejs:shaped]: {"type":"minecraft:crafting_shaped","result":{"item":"kubejs:eternal_engine","count":1},"pattern":["CEC","OAO"],"key":{"C":{"item":"ad_astra:calorite_plate"},"E":{"item":"alexscaves:enigmatic_engine"},"G":{"item":"ad_astra:ostrum_plate"},"A":{"item":"immersive_aircraft:engine"}}}: Pattern references symbol 'O' but it's not defined in the key
+[23:02:27] [WARN] Error parsing recipe thermal:rf_coil[kubejs:shaped]: {"type":"minecraft:crafting_shaped","result":{"item":"thermal:rf_coil","count":1},"pattern":["  B"," E ","B  "],"key":{"B":{"item":"create:brass_ingot"},"R":{"item":"minecraft:redstone_block"}}}: Pattern references symbol 'E' but it's not defined in the key
+[23:02:27] [INFO] Added 91 recipes, removed 89 recipes, modified 4 recipes, with 25 failed recipes in 1.729 s
+[23:02:41] [INFO] Server resource reload complete!
