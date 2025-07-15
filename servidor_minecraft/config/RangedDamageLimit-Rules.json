@@ -1,0 +1,32 @@
+[
+  {
+    "mobId": "mowziesmobs:umvuthi",
+    "protectionDistance": 10.0,
+    "damageCap": 0.9,
+    "noAggroBeyondCertainDistance": false,
+    "noAggroDistance": 15.0
+  },
+  {
+    "mobId": "minecraft:warden",
+    "protectionDistance": 10.0,
+    "damageCap": 1.0,
+    "noAggroBeyondCertainDistance": false,
+    "noAggroDistance": 15.0
+  },
+  {
+    "mobId": "aquamirae:captain_cornelia",
+    "protectionDistance": 10.0,
+    "damageCap": 0.9,
+    "noAggroBeyondCertainDistance": false,
+    "noAggroDistance": 15.0
+  },
+
+  {
+    "mobId": "irons_spellbooks:dead_king",
+    "protectionDistance": 10.0,
+    "damageCap": 1.0,
+    "noAggroBeyondCertainDistance": false,
+    "noAggroDistance": 15.0
+  }
+  
+]

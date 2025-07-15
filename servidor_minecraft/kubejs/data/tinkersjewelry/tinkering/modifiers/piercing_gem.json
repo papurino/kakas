@@ -1,0 +1,33 @@
+{
+  "level_display": "tconstruct:default",
+  "modules": [
+    {
+      "type": "tinkersjewelry:attribute_modifier",
+      "attribute": "attributeslib:armor_pierce",
+      "formula": [
+        "$level",
+        1.0,
+        "-",
+        0.05,
+        "*",
+        0.1,
+        "+",
+        "$amplification",
+        "*"
+      ],
+      "operation": "addition",
+      "unique": "tinkersjewelry.modifier.piercing_gem",
+      "variables": {
+        "amplification": {
+          "type": "tconstruct:tool_stat",
+          "stat": "tinkersjewelry:amplification"
+        }
+      }
+    },
+    {
+      "type": "tinkersjewelry:hurt_enemy",
+      "flat": 1.0
+    }
+  ],
+  "tooltip_display": "always"
+}

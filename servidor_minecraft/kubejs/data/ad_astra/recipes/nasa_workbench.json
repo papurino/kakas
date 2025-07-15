@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "tag": "ad_astra:steel_plates"
+    },
+    "B": {
+      "tag": "ad_astra:steel_blocks"
+    },
+    "C": {
+      "item": "mekanism:advanced_control_circuit"
+    },
+    "T": {
+      "item": "majruszsdifficulty:enderium_ingot"
+    },
+    "|": {
+      "item": "mekanism:alloy_infused"
+    }
+  },
+  "pattern": [
+    "|#|",
+    "TCT",
+    "#B#"
+  ],
+  "result": {
+    "item": "ad_astra:nasa_workbench"
+  },
+  "show_notification": true
+}

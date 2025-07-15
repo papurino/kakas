@@ -1,0 +1,20 @@
+{
+  "type": "tconstruct:modifier",
+  "allow_crystal": true,
+  "inputs": [
+    {
+      "type": "forge:difference",
+      "base": {
+        "item": "mowziesmobs:wrought_helmet"
+      },
+      "subtracted": {
+        "item": "minecraft:dragon_head"
+      }
+    }
+  ],
+  "level": 1,
+  "result": "tconstruct:recapitated",
+  "tools": {
+    "tag": "tconstruct:modifiable/bonus_slots"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "create:mechanical_crafting",
+  "pattern": [
+    " P ",
+    "PDP",
+    "HNH",
+    " S "
+  ],
+  "key": {
+    "D": {
+      "item": "ad_astra:desh_plate"
+    },
+    "P": {
+      "tag": "forge:storage_blocks/steel"
+    },
+    "N": {
+      "item": "alexscaves:nuclear_bomb"
+    },
+    "S": {
+      "tag": "minecraft:wooden_slabs"
+    },
+    "H": {
+      "item": "alexscaves:hazmat_block"
+    }
+  },
+  "result": {
+    "item": "cbc_nukes:nuke_shell"
+  },
+  "acceptMirrored": true
+}

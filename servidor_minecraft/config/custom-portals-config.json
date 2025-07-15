@@ -1,0 +1,47 @@
+
+{
+  
+  "ConfiguredPortals": [
+   
+    {
+      "isFlat": false,
+      "frameBlock": "minecraft:reinforced_deepslate",
+      "isFluidIgniter": false,
+      "itemIgniter": "kubejs:artifact_beating_heart",
+      "dimension": "thegreatbelow:thegreatbelow",
+      "r": 0,
+      "g": 170,
+      "b": 170
+    },
+    {
+      "isFlat": true,
+      "frameBlock": "minecraft:prismarine",
+      "isFluidIgniter": false,
+      "itemIgniter": "minecraft:nautilus_shell",
+      "dimension": "mce:atlantis",
+      "r": 0,
+      "g": 170,
+      "b": 170
+    },
+      {
+      "isFlat": false,
+      "frameBlock": "minecraft:stone_bricks",
+      "isFluidIgniter": false,
+      "itemIgniter": "iceandfire:hydra_heart",
+      "dimension": "mce:swamplands",
+      "r": 0,
+      "g": 170,
+      "b": 0
+    },
+    {
+      "isFlat": true,
+      "frameBlock": "vampirism:bloody_dark_stone_bricks",
+      "isFluidIgniter": false,
+      "itemIgniter": "vampirism:vampire_blood_bottle",
+      "dimension": "mce:the_vampire_forest",
+      "r": 170,
+      "g": 0,
+      "b": 0
+    }
+  ]
+}

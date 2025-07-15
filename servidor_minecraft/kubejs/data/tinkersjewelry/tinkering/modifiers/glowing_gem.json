@@ -1,0 +1,40 @@
+{
+  "level_display": "tconstruct:default",
+  "modules": [
+    {
+      "type": "tinkersjewelry:enemy_effect",
+      "amplification": {
+        "formula": [
+          0.0
+        ],
+        "variables": {
+          "amplification": {
+            "type": "tconstruct:tool_stat",
+            "stat": "tinkersjewelry:amplification"
+          }
+        }
+      },
+      "duration": {
+        "formula": [
+          200.0,
+          "$level",
+          "*",
+          "$amplification",
+          "*"
+        ],
+        "variables": {
+          "amplification": {
+            "type": "tconstruct:tool_stat",
+            "stat": "tinkersjewelry:amplification"
+          }
+        }
+      },
+      "effect": "minecraft:glowing"
+    },
+    {
+      "type": "tinkersjewelry:hurt_enemy",
+      "flat": 1.0
+    }
+  ],
+  "tooltip_display": "always"
+}

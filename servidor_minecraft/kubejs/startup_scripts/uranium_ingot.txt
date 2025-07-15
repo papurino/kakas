@@ -1,0 +1,9 @@
+onEvent('item.modification', event => {
+    event.modify('emendatusenigmatica:uranium_ingot', item => {
+        item.foodProperties = food => {
+            food.hunger(30000)
+			food.saturation(1)
+			food.effect('minecraft:instant_damage', 1500, 250, 250)
+        }
+    })
+})

@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "buildinggadgets2",
+  "key": {
+    "i": {
+      "item": "create:sturdy_sheet"
+    },
+    "d": {
+      "item": "create:brass_sheet"
+    },
+    "l": {
+      "item": "create:electron_tube"
+    },
+    "r": {
+      "item": "create:precision_mechanism"
+    }
+  },
+  "pattern": [
+    "iri",
+    "dld",
+    "idi"
+  ],
+  "result": {
+    "item": "buildinggadgets2:gadget_exchanging"
+  },
+  "show_notification": true
+}

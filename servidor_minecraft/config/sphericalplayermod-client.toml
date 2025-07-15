@@ -1,0 +1,6 @@
+
+["Client Settings for Spherical Player Mod"]
+	#The number of segments of a sphere. Must be a natural number that is a multiple of 4 and up to 32.
+	#Range: 8 ~ 32
+	segments = 12
+

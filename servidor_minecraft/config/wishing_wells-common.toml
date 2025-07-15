@@ -1,0 +1,18 @@
+#A list of items that can be tossed and their probabilities of success.
+tossableItems = ["minecraft:gold_ingot,0.5", "minecraft:diamond,0.7"]
+#A list of items and blessings with their probabilities for rewards in the Overworld.
+overworldBlessings = ["minecraft:diamond,0.2", "minecraft:emerald,0.2", "minecraft:golden_apple,0.2", "minecraft:experience_bottle,0.2", "minecraft:iron_ingot,0.2", "blessing:heal,0.1", "blessing:speed,0.1", "blessing:strength,0.1", "blessing:wolf,0.1", "blessing:cat,0.1"]
+#A list of items and blessings with their probabilities for rewards in the Nether.
+netherBlessings = ["minecraft:netherite_ingot,0.1", "minecraft:blaze_rod,0.3", "minecraft:ghast_tear,0.2", "minecraft:quartz,0.3", "minecraft:glowstone_dust,0.1", "blessing:heal,0.1", "blessing:speed,0.1", "blessing:strength,0.1", "blessing:wolf,0.1", "blessing:cat,0.1"]
+#A list of items and blessings with their probabilities for rewards in the End.
+endBlessings = ["minecraft:elytra,0.1", "minecraft:dragon_breath,0.2", "minecraft:ender_pearl,0.3", "minecraft:shulker_shell,0.3", "minecraft:end_stone,0.1", "blessing:heal,0.1", "blessing:speed,0.1", "blessing:strength,0.1", "blessing:wolf,0.1", "blessing:cat,0.1"]
+#The fixed number of throws before a curse is applied. Set to -1 to use the range instead.
+#Range: > -1
+curseFixedThreshold = -1
+#The minimum number of throws before a curse is applied if using a range.
+#Range: > 0
+curseMinThreshold = 3
+#The maximum number of throws before a curse is applied if using a range.
+#Range: > 0
+curseMaxThreshold = 10
+

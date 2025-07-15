@@ -1,0 +1,84 @@
+{
+  "replace": false,
+  "trades": [
+    {
+      "type": "goblintraders:basic",
+      "offer_item": {
+        "item": "ftbquests:lootcrate",
+	"nbt": "{type:\"quest_loot\"}",
+        "count": 1
+      },
+      "payment_item": {
+        "item": "kubejs:loyalty_card_generic",
+        "count": 1
+      },
+      "price_multiplier": 0.0,
+      "max_trades": 5,
+      "experience": 4
+    },
+     {
+      "type": "goblintraders:basic",
+      "offer_item": {
+        "item": "ftbquests:lootcrate",
+	"nbt": "{type:\"curious_box\"}",
+        "count": 1
+      },
+      "payment_item": {
+        "item": "kubejs:loyalty_card_curio",
+	      
+        "count": 1
+      },
+      "price_multiplier": 0.0,
+      "max_trades": 2,
+      "experience": 4
+    },
+   
+
+
+     {
+  "type": "goblintraders:basic",
+  "experience": 6,
+  "max_trades": 3,
+  "offer_item": {
+    "count": 1,
+    "item": "minecraft:potion",
+    "nbt": "{CustomPotionColor:16701501,CustomPotionEffects:[{Duration:100,Id:15},{Amplifier:2,Duration:2000,Id:3},{Amplifier:2,Duration:2000,Id:1},{Amplifier:0,Duration:8500,Id:24},{Amplifier:1,Duration:2000,Id:5},{Amplifier:0,Duration:100,Id:20}],display:{Name:'{\"text\":\"Bottle of \\\\\"Skooma\\\\\"\"}'}}"
+  },
+  "payment_item": {
+    "count": 13,
+    "item": "minecraft:emerald"
+  },
+  "price_multiplier": 0.5
+},
+{
+  "type": "goblintraders:basic",
+  "experience": 6,
+  "max_trades": 3,
+  "offer_item": {
+    "count": 1,
+    "item": "minecraft:enchanted_book",
+    "nbt": "{StoredEnchantments:[{id:\"veinmining:vein_mining\",lvl:1s}]}"
+  },
+  "payment_item": {
+    "count": 13,
+    "item": "minecraft:emerald"
+  },
+  "price_multiplier": 0.5
+},
+	  {
+  "type": "goblintraders:basic",
+  "experience": 6,
+  "max_trades": 1,
+  "offer_item": {
+    "count": 1,
+    "item": "etched:boombox"
+  },
+  "payment_item": {
+    "count": 3,
+    "item": "minecraft:emerald"
+  },
+  "price_multiplier": 0.5
+}
+     
+  ]
+}

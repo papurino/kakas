@@ -1,0 +1,21 @@
+{
+  "level_display": "tconstruct:default",
+  "modules": [
+    {
+      "type": "tinkersjewelry:attribute_modifier",
+      "attribute": "tinkersjewelry:subspace",
+      "formula": [
+        "$level"
+      ],
+      "operation": "addition",
+      "unique": "tinkersjewelry.modifier.subspace",
+      "variables": {
+        "amplification": {
+          "type": "tconstruct:tool_stat",
+          "stat": "tinkersjewelry:amplification"
+        }
+      }
+    }
+  ],
+  "tooltip_display": "always"
+}

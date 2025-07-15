@@ -1,0 +1,160 @@
+{
+  "replace": false,
+  "trades": [
+     {
+      "type": "goblintraders:basic",
+      "offer_item": {
+        "item": "ftbquests:lootcrate",
+	"nbt": "{type:\"quest_loot\"}",
+        "count": 1
+      },
+      "payment_item": {
+        "item": "kubejs:loyalty_card_generic",
+        "count": 1
+      },
+      "price_multiplier": 0.0,
+      "max_trades": 5,
+      "experience": 4
+    },
+     {
+      "type": "goblintraders:basic",
+      "offer_item": {
+        "item": "ftbquests:lootcrate",
+	"nbt": "{type:\"curious_box\"}",
+        "count": 1
+      },
+      "payment_item": {
+        "item": "kubejs:loyalty_card_curio",
+	      
+        "count": 1
+      },
+      "price_multiplier": 0.0,
+      "max_trades": 2,
+      "experience": 4
+    },
+    {
+      "type": "goblintraders:basic",
+      "experience": 4,
+      "max_trades": 24,
+      "offer_item": {
+        "count": 1,
+        "item": "minecraft:emerald"
+      },
+      "payment_item": {
+        "count": 1,
+        "item": "minecraft:carrot"
+      },
+      "price_multiplier": 0.0
+    },
+    {
+      "type": "goblintraders:basic",
+      "experience": 4,
+      "max_trades": 16,
+      "offer_item": {
+        "count": 1,
+        "item": "iceandfire:dragonscales_red"
+      },
+      "payment_item": {
+        "count": 3,
+        "item": "minecraft:diamond"
+      },
+      "price_multiplier": 0.0
+    },
+     {
+  "type": "goblintraders:basic",
+  "enchantments": [
+    {
+      "id": "minecraft:fire_aspect",
+      "level": 3
+    }
+  ],
+  "experience": 200,
+  "max_trades": 1,
+  "offer_item": {
+    "count": 1,
+    "item": "iceandfire:dread_knight_sword",
+    "nbt": "{\"Damage\":0,\"display\":{\"Lore\":[\"{\\\"text\\\":\\\"Forged in the depths of the Nether. Used to torment and torture enemies of The Eternal Legion.\\\",\\\"color\\\":\\\"gray\\\",\\\"italic\\\":true}\"],\"Name\":\"{\\\"text\\\":\\\"Blade of Eternal Torment\\\",\\\"color\\\":\\\"dark_purple\\\",\\\"italic\\\":false}\"},\"etstlib_tool_uuid\":\"0a343ae3-e330-4f46-8937-3973ed0374da\",\"tic_persistent\":{}}"
+  },
+  "payment_item": {
+    "count": 1,
+    "item": "minecraft:netherite_sword",
+    "nbt": "{Damage:0}"
+  },
+  "price_multiplier": 0.0,
+  "secondary_payment_item": {
+    "count": 1,
+    "item": "bosses_of_mass_destruction:blazing_eye"
+  }
+},
+     {
+  "type": "goblintraders:basic",
+  "experience": 6,
+  "max_trades": 3,
+  "offer_item": {
+    "count": 1,
+    "item": "minecraft:potion",
+    "nbt": "{CustomPotionColor:16701501,CustomPotionEffects:[{Duration:100,Id:15},{Amplifier:3,Duration:2000,Id:3},{Amplifier:3,Duration:2000,Id:1},{Amplifier:0,Duration:8500,Id:24},{Amplifier:3,Duration:2000,Id:5},{Amplifier:0,Duration:300,Id:20}],display:{Name:'{\"text\":\"Bottle of \\\\\"Nether Skooma\\\\\"\"}'}}"
+  },
+  "payment_item": {
+    "count": 40,
+    "item": "minecraft:emerald"
+  },
+  "price_multiplier": 0.5
+},
+    {
+      "type": "goblintraders:basic",
+      "experience": 4,
+      "max_trades": 24,
+      "offer_item": {
+        "count": 1,
+        "item": "alexsmobs:mosquito_repellent_stew"
+      },
+      "payment_item": {
+        "count": 1,
+        "item": "minecraft:emerald"
+      },
+      "price_multiplier": 0.0
+    },
+    {
+      "type": "goblintraders:basic",
+      "experience": 4,
+      "max_trades": 32,
+      "offer_item": {
+        "count": 4,
+        "item": "minecraft:glowstone_dust"
+      },
+      "payment_item": {
+        "count": 1,
+        "item": "minecraft:glowstone"
+      },
+      "price_multiplier": 0.0
+    },
+    {
+      "type": "goblintraders:basic",
+      "experience": 4,
+      "max_trades": 64,
+      "offer_item": {
+        "count": 1,
+        "item": "minecraft:emerald"
+      },
+      "payment_item": {
+        "count": 64,
+        "item": "minecraft:netherrack"
+      },
+      "price_multiplier": 0.0
+    },
+    {
+      "type": "goblintraders:basic",
+      "experience": 4,
+      "offer_item": {
+        "count": 2,
+        "item": "minecraft:nether_wart"
+      },
+      "payment_item": {
+        "count": 1,
+        "item": "minecraft:emerald"
+      },
+      "price_multiplier": 0.0
+    }
+  ]
+}

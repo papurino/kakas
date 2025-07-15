@@ -1,0 +1,272 @@
+type = fancymenu_layout
+
+layout-meta {
+  identifier = packmodes
+  render_custom_elements_behind_vanilla = false
+  last_edited_time = 1744403672594
+  is_enabled = true
+  randommode = false
+  randomgroup = 1
+  randomonlyfirsttime = false
+  layout_index = 0
+  [loading_requirement_container_meta:80c47ecf-160f-4bb2-a0c4-5515c0889b1d-1744402570219] = [groups:][instances:]
+}
+
+customization {
+  action = backgroundoptions
+  keepaspectratio = false
+}
+
+scroll_list_customization {
+  preserve_scroll_list_header_footer_aspect_ratio = true
+  render_scroll_list_header_shadow = true
+  render_scroll_list_footer_shadow = true
+  show_scroll_list_header_footer_preview_in_editor = false
+  repeat_scroll_list_header_texture = false
+  repeat_scroll_list_footer_texture = false
+}
+
+element {
+  source = [source:local]/config/fancymenu/assets/mc-eternal-gamemode-2.png
+  repeat_texture = false
+  nine_slice_texture = false
+  nine_slice_texture_border_x = 5
+  nine_slice_texture_border_y = 5
+  element_type = image
+  instance_identifier = 2c811302-695d-44ed-8b7f-d365651c0eea-1744038099397
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in_v2 = no_fading
+  fade_in_speed = 1.0
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  auto_sizing = false
+  auto_sizing_base_screen_width = 1920
+  auto_sizing_base_screen_height = 1017
+  sticky_anchor = false
+  anchor_point = mid-centered
+  x = -161
+  y = -92
+  width = 322
+  height = 184
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = 6d1033e4-c58e-4f5c-8461-f6ed32b2b664-1744038099397
+  [loading_requirement_container_meta:6d1033e4-c58e-4f5c-8461-f6ed32b2b664-1744038099397] = [groups:][instances:]
+}
+
+element {
+  button_element_executable_block_identifier = 1e77d41a-0250-4145-b783-c4eb98b20d0a-1744038132076
+  [executable_block:1e77d41a-0250-4145-b783-c4eb98b20d0a-1744038132076][type:generic] = [executables:]
+  backgroundnormal = [source:local]/config/fancymenu/assets/transparant.png
+  backgroundhovered = [source:local]/config/fancymenu/assets/transparant.png
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
+  nine_slice_custom_background = false
+  nine_slice_border_x = 5
+  nine_slice_border_y = 5
+  hoverlabel = &7Normal Mode
+  clicksound = [source:local]/config/fancymenu/assets/orb.ogg
+  description = • Default MC Eternal 2%n%• Strongly Recommended%n%• Custom Recipes%n%• Harder Bosses%n%• Progression %n%• Find The 12 Legendary Eyes!%n%• Custom Content
+  label = 
+  navigatable = true
+  widget_active_state_requirement_container_identifier = e82fae5c-bbb9-4061-baee-062bb31393be-1744038132076
+  [loading_requirement_container_meta:e82fae5c-bbb9-4061-baee-062bb31393be-1744038132076] = [groups:][instances:]
+  element_type = custom_button
+  instance_identifier = 41e37ace-471d-442b-8773-2e1f5ba14e2f-1744038391339
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in_v2 = no_fading
+  fade_in_speed = 1.0
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  auto_sizing = false
+  auto_sizing_base_screen_width = 1920
+  auto_sizing_base_screen_height = 1017
+  sticky_anchor = false
+  anchor_point = mid-centered
+  x = -6
+  y = -27
+  width = 24
+  height = 25
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = a465bf8d-a357-41eb-a32e-3ec06c91d359-1744038132076
+  [loading_requirement_container_meta:a465bf8d-a357-41eb-a32e-3ec06c91d359-1744038132076] = [groups:][instances:]
+}
+
+element {
+  button_element_executable_block_identifier = 1e77d41a-0250-4145-b783-c4eb98b20d0a-1744038132076
+  [executable_block:1e77d41a-0250-4145-b783-c4eb98b20d0a-1744038132076][type:generic] = [executables:]
+  backgroundnormal = [source:local]/config/fancymenu/assets/transparant.png
+  backgroundhovered = [source:local]/config/fancymenu/assets/transparant.png
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
+  nine_slice_custom_background = false
+  nine_slice_border_x = 5
+  nine_slice_border_y = 5
+  hoverlabel = &eEasy Mode
+  clicksound = [source:local]/config/fancymenu/assets/barry_squeak.wav
+  description = • Miminal Recipe Changes%n%• Easy Waystones %n%• Lower Monster Health and Damage %n%• Additional Claimed Chunks%n%• Craftable Legendary Eyes%n%• Optional Bosses%n%• Kitchen Sink Experience%n%
+  label = 
+  navigatable = true
+  widget_active_state_requirement_container_identifier = e82fae5c-bbb9-4061-baee-062bb31393be-1744038132076
+  [loading_requirement_container_meta:e82fae5c-bbb9-4061-baee-062bb31393be-1744038132076] = [groups:][instances:]
+  element_type = custom_button
+  instance_identifier = 0fb08478-3236-4db9-94f4-5be25e899b63-1744038132076
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in_v2 = no_fading
+  fade_in_speed = 1.0
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  auto_sizing = false
+  auto_sizing_base_screen_width = 1920
+  auto_sizing_base_screen_height = 1017
+  sticky_anchor = false
+  anchor_point = mid-centered
+  x = -67
+  y = -27
+  width = 24
+  height = 25
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = a465bf8d-a357-41eb-a32e-3ec06c91d359-1744038132076
+  [loading_requirement_container_meta:a465bf8d-a357-41eb-a32e-3ec06c91d359-1744038132076] = [groups:][instances:]
+}
+
+element {
+  button_element_executable_block_identifier = 1e77d41a-0250-4145-b783-c4eb98b20d0a-1744038132076
+  [executable_block:1e77d41a-0250-4145-b783-c4eb98b20d0a-1744038132076][type:generic] = [executables:]
+  backgroundnormal = [source:local]/config/fancymenu/assets/transparant.png
+  backgroundhovered = [source:local]/config/fancymenu/assets/chain.png
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
+  nine_slice_custom_background = false
+  nine_slice_border_x = 5
+  nine_slice_border_y = 5
+  hoverlabel = &4&l<shake>CHAOS MODE
+  clicksound = [source:local]/config/fancymenu/assets/warden.ogg
+  description = Coming Soon!
+  label = 
+  navigatable = true
+  widget_active_state_requirement_container_identifier = e82fae5c-bbb9-4061-baee-062bb31393be-1744038132076
+  [loading_requirement_container_meta:e82fae5c-bbb9-4061-baee-062bb31393be-1744038132076] = [groups:][instances:]
+  element_type = custom_button
+  instance_identifier = 0bfcf220-3c43-432a-8e4e-eef8d05f9882-1744038507321
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in_v2 = no_fading
+  fade_in_speed = 1.0
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  auto_sizing = false
+  auto_sizing_base_screen_width = 1920
+  auto_sizing_base_screen_height = 1017
+  sticky_anchor = false
+  anchor_point = mid-centered
+  x = 59
+  y = -27
+  width = 26
+  height = 25
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = a465bf8d-a357-41eb-a32e-3ec06c91d359-1744038132076
+  [loading_requirement_container_meta:a465bf8d-a357-41eb-a32e-3ec06c91d359-1744038132076] = [groups:][instances:]
+}
+
+element {
+  interactable = true
+  source = %n%&eEasy &eMode%n%&7Normal &7Mode %n%<shake>&4&lChaos <shake>&4&lMode%n%
+  source_mode = direct
+  shadow = true
+  scale = 0.6
+  base_color = #FFFFFFFF
+  text_border = 2
+  line_spacing = 2
+  enable_scrolling = true
+  auto_line_wrapping = true
+  remove_html_breaks = true
+  code_block_single_color = #737373FF
+  code_block_multi_color = #565656FF
+  headline_line_color = #A9A9A9FF
+  separation_line_color = #A9A9A9FF
+  hyperlink_color = #0771FCFF
+  quote_color = #818181FF
+  quote_indent = 8.0
+  quote_italic = false
+  bullet_list_dot_color = #A9A9A9FF
+  bullet_list_indent = 8.0
+  bullet_list_spacing = 3.0
+  parse_markdown = true
+  element_type = text_v2
+  instance_identifier = 58f91dae-c1f3-44b1-93b6-e249800e60d3-1744038610706
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in_v2 = no_fading
+  fade_in_speed = 1.0
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  auto_sizing = false
+  auto_sizing_base_screen_width = 1920
+  auto_sizing_base_screen_height = 1017
+  sticky_anchor = false
+  anchor_point = mid-centered
+  x = -13
+  y = 23
+  width = 47
+  height = 30
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = 490a4939-21ab-45e2-9bc2-0970a6860a86-1744038610706
+  [loading_requirement_container_meta:490a4939-21ab-45e2-9bc2-0970a6860a86-1744038610706] = [groups:][instances:]
+}
+
+element {
+  button_element_executable_block_identifier = c58a4767-92dd-4cbb-8f98-0e8565649c47-1744043050716
+  [executable_action_instance:736ac875-f505-4814-81b9-e60ff739988c-1744043096427][action_type:opengui] = title_screen
+  [executable_block:c58a4767-92dd-4cbb-8f98-0e8565649c47-1744043050716][type:generic] = [executables:736ac875-f505-4814-81b9-e60ff739988c-1744043096427;]
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
+  nine_slice_custom_background = false
+  nine_slice_border_x = 5
+  nine_slice_border_y = 5
+  label = Main Menu
+  navigatable = true
+  widget_active_state_requirement_container_identifier = 94a03d82-0415-4e9c-9aee-ff80b89f09d3-1744043050716
+  [loading_requirement_container_meta:94a03d82-0415-4e9c-9aee-ff80b89f09d3-1744043050716] = [groups:][instances:]
+  element_type = custom_button
+  instance_identifier = c6cf5e21-f51d-4a01-94f0-eb53586541a1-1744043050716
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in_v2 = no_fading
+  fade_in_speed = 1.0
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  auto_sizing = false
+  auto_sizing_base_screen_width = 1920
+  auto_sizing_base_screen_height = 1017
+  sticky_anchor = false
+  anchor_point = bottom-left
+  x = 0
+  y = -20
+  width = 100
+  height = 20
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = a474d953-5c55-42cc-9aed-3d0775172ce1-1744043050716
+  [loading_requirement_container_meta:a474d953-5c55-42cc-9aed-3d0775172ce1-1744043050716] = [groups:][instances:]
+}
+

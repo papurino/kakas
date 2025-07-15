@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CER",
+    "HPH",
+    "   "
+  ],
+  "key": {
+    "R": [
+      {
+        "item": "immersive_machinery:redstone_mechanism"
+      }
+    ],
+    "C": [
+      {
+        "item": "minecraft:copper_ingot"
+      }
+    ],
+    "H": [
+      {
+        "item": "minecraft:dispenser"
+      }
+    ],
+    "E": [
+      {
+        "item": "create:precision_mechanism"
+      }
+    ],
+    "P": [
+      {
+        "item": "immersive_aircraft:propeller"
+      }
+    ]
+  },
+  "result": {
+    "item": "immersive_machinery:redstone_sheep"
+  }
+}

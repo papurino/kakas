@@ -1,0 +1,24 @@
+
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ITI",
+    "I I",
+    "   "
+  ],
+  "key": {
+    "T": [
+      {
+        "item": "create:cogwheel"
+      }
+    ],
+    "I": [
+      {
+        "item": "create:sturdy_sheet"
+      }
+    ]
+  },
+  "result": {
+    "item": "immersive_aircraft:bomb_bay"
+  }
+}

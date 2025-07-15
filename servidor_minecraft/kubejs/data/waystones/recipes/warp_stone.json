@@ -1,0 +1,22 @@
+{
+  "result": {
+    "item": "waystones:warp_stone"
+  },
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "DED",
+    "EGE",
+    "DED"
+  ],
+  "key": {
+    "G": {
+      "tag": "balm:emeralds"
+    },
+    "E": {
+      "item": "majruszsdifficulty:enderium_ingot"
+    },
+    "D": {
+      "item": "minecraft:amethyst_shard"
+    }
+  }
+}

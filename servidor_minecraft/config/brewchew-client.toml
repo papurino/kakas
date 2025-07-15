@@ -1,0 +1,5 @@
+
+["Client Settings"]
+	#Enable/Disable Boiling Brewing Cauldron sound.
+	Boiling_Cauldron_Sound = true
+

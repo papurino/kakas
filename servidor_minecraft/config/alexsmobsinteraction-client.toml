@@ -1,0 +1,5 @@
+
+[visuals]
+	#Whether Farseer's effects are enabled (this is for sensitive types like photosensitivity)
+	FARSEER_EFFECTS_ENABLED = true
+

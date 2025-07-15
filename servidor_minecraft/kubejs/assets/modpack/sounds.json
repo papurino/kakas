@@ -1,0 +1,3 @@
+{
+  "slot_machine_quest": { "category": "block", "sounds":[{"name": "modpack:block/slot_machine_quest", "stream": true}] }
+}

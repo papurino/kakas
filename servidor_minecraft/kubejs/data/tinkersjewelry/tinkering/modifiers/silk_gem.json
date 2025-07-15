@@ -1,0 +1,27 @@
+{
+  "level_display": "tconstruct:default",
+  "modules": [
+    {
+      "type": "tinkersjewelry:attribute_modifier",
+      "attribute": "tinkersjewelry:silk",
+      "formula": [
+        "$level",
+        "$amplification",
+        "*"
+      ],
+      "operation": "addition",
+      "unique": "tinkersjewelry.modifier.silk_gem",
+      "variables": {
+        "amplification": {
+          "type": "tconstruct:tool_stat",
+          "stat": "tinkersjewelry:amplification"
+        }
+      }
+    },
+    {
+      "type": "tinkersjewelry:block_break",
+      "flat": 1.0
+    }
+  ],
+  "tooltip_display": "always"
+}

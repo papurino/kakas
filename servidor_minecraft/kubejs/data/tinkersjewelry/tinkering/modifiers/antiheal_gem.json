@@ -1,0 +1,42 @@
+{
+  "level_display": "tconstruct:default",
+  "modules": [
+    {
+      "type": "tinkersjewelry:enemy_effect",
+      "amplification": {
+        "formula": [
+          0.0
+        ],
+        "variables": {
+          "amplification": {
+            "type": "tconstruct:tool_stat",
+            "stat": "tinkersjewelry:amplification"
+          }
+        }
+      },
+      "duration": {
+        "formula": [
+          50.0,
+          "$level",
+          "*",
+          50.0,
+          "+",
+          "$amplification",
+          "*"
+        ],
+        "variables": {
+          "amplification": {
+            "type": "tconstruct:tool_stat",
+            "stat": "tinkersjewelry:amplification"
+          }
+        }
+      },
+      "effect": "attributeslib:grievous"
+    },
+    {
+      "type": "tinkersjewelry:hurt_enemy",
+      "flat": 1.0
+    }
+  ],
+  "tooltip_display": "always"
+}

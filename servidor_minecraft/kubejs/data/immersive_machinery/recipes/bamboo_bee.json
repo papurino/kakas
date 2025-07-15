@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AQA",
+    "QRQ",
+    "AQA"
+  ],
+  "key": {
+    "R": [
+      {
+        "item": "immersive_machinery:redstone_mechanism"
+      }
+    ],
+    "A": [
+      {
+        "item": "create:propeller"
+      }
+    ],
+    "Q": [
+      {
+        "item": "minecraft:bamboo"
+      }
+    ]
+  },
+  "result": {
+    "item": "immersive_machinery:bamboo_bee"
+  }
+}

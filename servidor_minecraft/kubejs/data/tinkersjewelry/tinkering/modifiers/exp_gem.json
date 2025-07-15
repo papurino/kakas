@@ -1,0 +1,29 @@
+{
+  "level_display": "tconstruct:default",
+  "modules": [
+    {
+      "type": "tinkersjewelry:attribute_modifier",
+      "attribute": "attributeslib:experience_gained",
+      "formula": [
+        "$level",
+        0.1,
+        "*",
+        "$amplification",
+        "*"
+      ],
+      "operation": "addition",
+      "unique": "tinkersjewelry.modifier.exp_gem",
+      "variables": {
+        "amplification": {
+          "type": "tconstruct:tool_stat",
+          "stat": "tinkersjewelry:amplification"
+        }
+      }
+    },
+    {
+      "type": "tinkersjewelry:hurt_enemy",
+      "flat": 1.0
+    }
+  ],
+  "tooltip_display": "always"
+}

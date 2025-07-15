@@ -1,0 +1,31 @@
+{
+  "level_display": "tconstruct:default",
+  "modules": [
+    {
+      "type": "tinkersjewelry:attribute_modifier",
+      "attribute": "minecraft:generic.armor",
+      "formula": [
+        "$level",
+        0.3,
+        "*",
+        "$amplification",
+        "*",
+        0.5,
+        "+"
+      ],
+      "operation": "addition",
+      "unique": "tinkersjewelry.modifier.armor_gem",
+      "variables": {
+        "amplification": {
+          "type": "tconstruct:tool_stat",
+          "stat": "tinkersjewelry:amplification"
+        }
+      }
+    },
+    {
+      "type": "tinkersjewelry:hurt_user",
+      "flat": 1.0
+    }
+  ],
+  "tooltip_display": "always"
+}

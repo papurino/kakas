@@ -1,0 +1,36 @@
+{
+  "level_display": "tconstruct:default",
+  "modules": [
+    {
+      "type": "tconstruct:conditional_stat",
+      "formula": [
+        "$max_durability",
+        0.5,
+        "*",
+        "duplicate",
+        "$durability",
+        "!-",
+        "non-negative",
+        "!/",
+        "$level",
+        "*",
+        1.1,
+        "*",
+        "$multiplier",
+        "*",
+        "$value",
+        "*"
+      ],
+      "percent": false,
+      "stat": "tinkersjewelry:amplification",
+      "variables": {
+        "durability": "tconstruct:tool_durability",
+        "max_durability": {
+          "type": "tconstruct:tool_stat",
+          "stat": "tconstruct:durability"
+        }
+      }
+    }
+  ],
+  "tooltip_display": "always"
+}

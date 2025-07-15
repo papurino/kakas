@@ -1,0 +1,6 @@
+{
+    "type": "forge:add_features",
+    "biomes": "thegreatbelow:thegreatbelow",
+    "features": "mekanism:ore_osmium_middle", 
+    "step": "underground_ores"
+  }

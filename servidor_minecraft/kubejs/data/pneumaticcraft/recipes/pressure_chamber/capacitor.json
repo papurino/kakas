@@ -1,0 +1,22 @@
+{
+    "type": "pneumaticcraft:pressure_chamber",
+    "inputs": [
+      {
+        "type": "pneumaticcraft:stacked_item",
+        "item": "minecraft:lapis_lazuli",
+        "count": 6
+      },
+      {
+        "item": "create:electron_tube"
+      },
+      {
+        "item": "pneumaticcraft:plastic"
+      }
+    ],
+    "pressure": 1.0,
+    "results": [
+      {
+        "item": "pneumaticcraft:capacitor"
+      }
+    ]
+  }

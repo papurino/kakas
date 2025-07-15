@@ -1,0 +1,44 @@
+{
+    "type": "lychee:block_interacting",
+    "item_in": {
+        "type": "forge:nbt",
+        "item": "vampirism:blood_bottle",
+        "nbt": "{Damage:9}"
+    },
+    "block_in": {
+    "blocks": ["minecraft:deepslate_bricks"]
+    },
+    "post": [
+        {
+            "type": "drop_item",
+            "item": "vampirism:blood_bottle",
+            "contextual": {
+                "type": "chance",
+                "chance": 1.0
+            }
+        },
+        {
+            "type": "place",
+            "contextual": [
+              {
+                "type": "chance",
+                "chance": 100
+              }
+            ],
+            "block": {
+              "blocks": [
+                "vampirism:bloody_dark_stone_bricks"
+              ]
+            }
+          },
+
+{
+"type": "execute",
+"command": "execute at @p run playsound vampirism:block.boiling master @p ~ ~ ~ 1.0 1.0",
+"hide": true
+
+}
+
+
+    ]
+}

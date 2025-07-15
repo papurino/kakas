@@ -1,0 +1,8 @@
+{
+  "preset": "FPG_DIFFICULTY_BASED",
+  "noFogGameModes": [
+    "SPECTATOR",
+    "CREATIVE"
+  ],
+  "version": 3
+}

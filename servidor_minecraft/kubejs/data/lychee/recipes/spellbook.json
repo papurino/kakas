@@ -1,0 +1,38 @@
+{
+    "type": "lychee:block_interacting",
+    "item_in": {
+        "item": "ars_nouveau:worn_notebook"
+    },
+    "block_in": "minecraft:bookshelf",
+    "post": [
+        {
+            "type": "drop_item",
+            "item": "ars_nouveau:novice_spell_book",
+            "contextual": {
+                "type": "chance",
+                "chance": 1.0
+            }
+        },
+    {
+"type": "drop_xp",
+"xp": "1",
+"hide": true
+
+    },
+
+{
+"type": "execute",
+"command": "execute at @p run playsound irons_spellbooks:ui.learn_eldritch_spell master @p ~ ~ ~ 1 1.0",
+"hide": true
+
+},
+{
+    "type": "execute",
+    "command": "effect give @p minecraft:blindness 2",
+    "hide": true
+    
+    }
+
+
+    ]
+}

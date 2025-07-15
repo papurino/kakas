@@ -1,0 +1,13 @@
+#Max chance of nightmare indoors at full darkness
+#Range: 0.0 ~ 1.0
+nightmareChanceIndoors = 0.15
+#Max chance of nightmare outdoors at full darkness
+#Range: 0.0 ~ 1.0
+nightmareChanceOutdoors = 0.8
+#Min number of mobs that can spawn with a nightmare
+#Range: 1 ~ 10
+nightmareMinMobs = 2
+#Max number of mobs that can spawn with a nightmare
+#Range: 1 ~ 10
+nightmareMaxMobs = 3
+

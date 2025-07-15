@@ -1,0 +1,10 @@
+
+#List of entity configurations
+[[entities]]
+	entity = "artifacts:mimic"
+	minTier = 1
+	maxTier = 1
+	presetAffixes = []
+	affixList = ["champions:knocking", "champions:wounding", "champions:paralyzing", "champions:molten", "champions:arctic", "champions:plagued", "champions:hasty", "champions:magnetic", "champions:enkindling"]
+	affixPermission = "WHITELIST"
+

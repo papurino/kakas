@@ -1,0 +1,7 @@
+
+[scrolls]
+	#set the command to get a extra claim
+	"scroll of expension" = "ftbchunks admin extra_claim_chunks @p add 1"
+	#set the command to get a extra load
+	"scroll of load" = "ftbchunks admin extra_force_load_chunks @p add 1"
+

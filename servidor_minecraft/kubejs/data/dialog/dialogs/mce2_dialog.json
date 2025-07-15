@@ -1,0 +1,149 @@
+{
+  "id": "mce_dialog",
+  "title": "mce Dialog",
+  "description": "A brief introduction to MC Eternal 2!",
+  "start": "start",
+  "entries": [
+    {
+      "id": "start",
+      "speaker": {"translate": "dialog.mce_dialog.speaker.barry", "color": "gold"},
+      "text":
+      [
+        {
+          "translate": "dialog.mce_dialog.entry.start.text"
+        }
+      ],
+      "portraits": [
+        {"path": "barry.png", "position": "right", "brightness": 0.8, "animationType": "FADE_IN"}
+      ]
+    },
+    {
+      "id": "2",
+      "speaker": {"translate": "dialog.mce_dialog.speaker.barry", "color": "gold"},
+      "text": {"translate": "dialog.mce_dialog.entry.2.text"},
+      "portraits": [
+        {"path": "barry.png", "position": "RIGHT", "brightness": 0.8}
+      ]
+    },
+    {
+      "id": "3",
+      "speaker": {
+        "translate": "dialog.mce_dialog.speaker.barry",
+        "color": "gold"
+      },
+      "text": [
+        {"translate": "dialog.mce_dialog.entry.2.text.1"}
+      ],
+      "portraits": [
+        {"path": "barry.png", "position": "RIGHT", "brightness": 0.8}
+      ]
+    },
+        {
+      "id": "4",
+      "speaker": {
+        "translate": "dialog.mce_dialog.speaker.barry",
+        "color": "gold"
+      },
+      "text": [
+        {"translate": "dialog.mce_dialog.entry.2.text.2"}
+      ],
+      "portraits": [
+        {"path": "barry.png", "position": "RIGHT", "brightness": 0.8}
+      ]
+    },
+      {
+      "id": "5",
+      "speaker": {
+        "translate": "dialog.mce_dialog.speaker.barry",
+        "color": "gold"
+      },
+      "text": [
+           {"translate": "dialog.mce_dialog.entry.4.text"}
+      ],
+      "portraits": [
+        {"path": "barry.png", "position": "RIGHT", "brightness": 0.8}
+      ]
+    },
+    {
+      "id": "6",
+      "speaker": {
+        "translate": "dialog.mce_dialog.speaker.barry",
+        "color": "gold"
+      },
+      "text": [
+        {"translate": "dialog.mce_dialog.entry.4.text.1"}
+      ],
+      "portraits": [
+        {"path": "barry.png", "position": "RIGHT", "brightness": 0.8}
+      ]
+    },
+     {
+      "id": "7",
+      "speaker": {
+        "translate": "dialog.mce_dialog.speaker.barry",
+        "color": "gold"
+      },
+      "text": [
+        {"translate": "dialog.mce_dialog.entry.5.text"}
+      ],
+      "portraits": [
+        {"path": "barry.png", "position": "RIGHT", "brightness": 0.8}
+      ]
+    },
+    {
+      "id": "8",
+      "speaker": {
+        "translate": "dialog.mce_dialog.speaker.barry",
+        "color": "gold"
+      },
+      "text": [
+
+        {"translate": "dialog.mce_dialog.entry.5.text.1"}
+      ],
+      "portraits": [
+        {"path": "barry.png", "position": "RIGHT", "brightness": 0.8}
+      ]
+    },
+     {
+      "id": "9",
+      "speaker": {
+        "translate": "dialog.mce_dialog.speaker.barry",
+        "color": "gold"
+      },
+      "text": [
+        {"translate": "dialog.mce_dialog.entry.6.text"},
+        {"translate": "dialog.mce_dialog.entry.6.text.1"}
+      ],
+      "portraits": [
+        {"path": "barry.png", "position": "RIGHT", "brightness": 0.8}
+      ]
+    },
+     {
+      "id": "10",
+      "speaker": {"translate": "dialog.mce_dialog.speaker.barry", "color": "red"},
+      "text": {"translate": "dialog.mce_dialog.entry.6.text.2"},
+      "portraits": [
+        {"path": "barry_angry.png", "position": "right", "brightness": 1.0, "animationType": "FADE_IN"}
+      ]
+    },
+    {
+      "id": "11",
+      "speaker": {"translate": "dialog.mce_dialog.speaker.barry", "color": "light_purple"},
+      "text": {"translate": "dialog.mce_dialog.entry.7.text"},
+      "portraits": [
+        {"path": "barry_love.png", "position": "right", "brightness": 1.0, "animationType": "BOUNCE"}
+      ]
+    },
+    
+   
+  {
+    "id": "end",
+    "speaker": {"translate": "dialog.mce_dialog.speaker.end", "color": "red"},
+    "text": {"translate": "dialog.test_dialog.entry.end.text"},
+
+    "portraits": [
+      {"path": "contract.png", "position":"right", "animationType": "FADE_IN"}
+    ]
+  }
+  ]
+}

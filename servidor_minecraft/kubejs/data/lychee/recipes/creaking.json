@@ -1,0 +1,69 @@
+{
+    "type": "lychee:block_interacting",
+    "item_in": {
+        "item": "minecraft:ender_eye"
+    },
+    "block_in": {
+    "blocks": ["vanillabackport:creaking_heart"],
+        "state": {
+            "creaking_heart_state": "awake"
+        }
+    },
+    "post": [
+        {
+            "type": "drop_item",
+            "item": "endrem:undead_eye",
+            "contextual": {
+                "type": "chance",
+                "chance": 1.0
+            }
+        },
+        {
+            "type": "place",
+            "contextual": [
+              {
+                "type": "chance",
+                "chance": 100
+              }
+            ],
+            "block": {
+              "blocks": [
+                "vanillabackport:pale_oak_log"
+              ]
+            }
+          },
+
+{
+"type": "execute",
+"command": "execute at @p run playsound minecraft:entity.warden.roar master @p ~ ~ ~ 0.2 0.6",
+"hide": true
+
+},
+{
+  "type": "execute",
+  "command": "execute at @p run playsound minecraft:entity.warden.roar master @p ~ ~ ~ 0.2 0.6",
+  "hide": true
+  
+  },
+{
+"type": "execute",
+"command": "execute run summon rootoffear:shadow_wilted ~ ~ ~",
+"hide": true
+
+},
+{
+  "type": "execute",
+  "command": "gamestage add @p the_desecrator",
+  "hide": true
+  
+  },
+{
+    "type": "execute",
+    "command": "effect give @p minecraft:blindness 3",
+    "hide": true
+    
+    }
+
+
+    ]
+}

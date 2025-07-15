@@ -1,0 +1,8 @@
+{
+
+"type": "forge:add_features",
+"features": "kubejs:osmium_ore_greatbelow",
+"biomes": "thegreatbelow:thegreatbelow",
+"step": "underground_ores"
+
+}

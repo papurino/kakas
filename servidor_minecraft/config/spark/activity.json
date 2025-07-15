@@ -1,0 +1,41 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "Dumshi",
+      "uniqueId": "981bca68-e54a-4630-8fa2-aad60c9052a3"
+    },
+    "time": 1749582783936,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/Bq4mc3g924"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Dumshi",
+      "uniqueId": "981bca68-e54a-4630-8fa2-aad60c9052a3"
+    },
+    "time": 1749569286999,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/SIIMaWfog6"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Dumshi",
+      "uniqueId": "981bca68-e54a-4630-8fa2-aad60c9052a3"
+    },
+    "time": 1749343752129,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/DDJi16pJmY"
+    }
+  }
+]

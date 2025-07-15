@@ -1,0 +1,29 @@
+{
+    "title": "Welcome To MC Eternal 2!", 
+    "starting_index": 0, 
+    "global_actions": [ 
+        { 
+            "condition":"", 
+            "action":"" 
+        }
+    ],
+    "dialogues": [ 
+        {
+            "dialogue": "HI THERE WELCOME HAAHAHAHAHHAHAHAHAHH I WILL EAT YOU", 
+            "replies":[ 
+                {
+                    "reply":"oh no... please dont eat me"
+
+                }
+            ],
+            "condition": "", 
+            "type_sound":"", 
+            "talk_sound": {
+                "sound":"", 
+                "volume": 0.5, 
+                "pitch": 0.5 
+            },
+            "timings": [0.5, 1.5, 5.0, 10.0] 
+        }
+    ]
+}

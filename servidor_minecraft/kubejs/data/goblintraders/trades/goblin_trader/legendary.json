@@ -1,0 +1,50 @@
+{
+  "replace": false,
+  "trades": [
+    {
+      "type": "goblintraders:basic",
+      "enchantments": [
+        {
+          "id": "ntgl:puncturing",
+          "level": 2
+        },
+        {
+          "id": "ntgl:trigger_finger",
+          "level": 1
+        }
+      ],
+      "experience": 1000,
+      "max_trades": 1,
+      "offer_item": {
+        "count": 1,
+        "item": "cgs:shotgun",
+        "nbt": "{Damage:0}"
+      },
+      "payment_item": {
+        "count": 50,
+        "item": "minecraft:emerald"
+      },
+      "price_multiplier": 0.0,
+      "secondary_payment_item": {
+        "count": 1,
+        "item": "irons_spellbooks:arcane_debris",
+        "nbt": "{Damage:0}"
+      }
+    },
+    {
+      "type": "goblintraders:basic",
+      "experience": 1000,
+      "max_trades": 1,
+      "offer_item": {
+        "count": 1,
+        "item": "alexscaves:tremorzilla_egg"
+      },
+      "payment_item": {
+        "count": 1,
+        "item": "bosses_of_mass_destruction:obsidian_heart"
+      },
+      "price_multiplier": 0.0
+      }
+    
+  ]
+}

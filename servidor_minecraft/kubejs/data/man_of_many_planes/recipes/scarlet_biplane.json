@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "IHI",
+    "PBH",
+    "IZI"
+  ],
+  "key": {
+    "H": [
+      {
+        "item": "immersive_aircraft:hull_reinforcement"
+      }
+    ],
+    "B": [
+      {
+        "item": "immersive_aircraft:biplane"
+      }
+    ],
+    "Z": [
+      {
+        "item": "immersive_aircraft:improved_landing_gear"
+      }
+    ],
+    "P": [
+      {
+        "item": "immersive_aircraft:enhanced_propeller"
+      }
+    ],
+    "I": [
+      {
+        "item": "alexscaves:rusty_scrap_metal"
+      }
+    ]
+  },
+  "result": {
+    "item": "man_of_many_planes:scarlet_biplane"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "level_display": "tconstruct:default",
+  "modules": [
+    {
+      "type": "tinkersjewelry:attribute_modifier",
+      "attribute": "attributeslib:mining_speed",
+      "formula": [
+        "$level",
+        0.25,
+        "*",
+        "$amplification",
+        "*"
+      ],
+      "operation": "addition",
+      "unique": "tinkersjewelry.modifier.mining_speed_gem",
+      "variables": {
+        "amplification": {
+          "type": "tconstruct:tool_stat",
+          "stat": "tinkersjewelry:amplification"
+        }
+      }
+    },
+    {
+      "type": "tinkersjewelry:block_break",
+      "flat": 1.0
+    }
+  ],
+  "tooltip_display": "always"
+}

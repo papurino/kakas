@@ -1,0 +1,15 @@
+{
+  "type": "lychee:item_inside",
+  "post": [
+    {
+      "type": "drop_item",
+      "item": "kubejs:artifact_endergem"
+    }
+  ],
+  "item_in": [
+    {
+      "item": "minecraft:ender_pearl"
+    }
+  ],
+  "block_in": "netherexp:ectoplasm"
+}

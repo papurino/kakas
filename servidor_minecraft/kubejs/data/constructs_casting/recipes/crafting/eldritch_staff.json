@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "a": {
+      "item": "irons_spellbooks:arcane_ingot"
+    },
+    "z": {
+      "item": "blighted_beasts:sculk_pearl"
+    },
+    "l": {
+      "tag": "minecraft:warped_stems"
+    },
+    "s": {
+      "item": "minecraft:echo_shard"
+    }
+  },
+  "pattern": [
+    "szs",
+    " a ",
+    " l "
+  ],
+  "result": {
+    "item": "constructs_casting:eldritch_staff"
+  },
+  "show_notification": true
+}

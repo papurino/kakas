@@ -1,0 +1,38 @@
+{
+    "type": "lychee:block_interacting",
+    "item_in": {
+        "item": "kubejs:mobdrop_endermanheart_beating"
+    },
+    "block_in": "netherexp:sculk_grinder",
+    "post": [
+        {
+            "type": "drop_item",
+            "item": "kubejs:artifact_beating_heart",
+            "contextual": {
+                "type": "chance",
+                "chance": 1.0
+            }
+        },
+    {
+"type": "drop_xp",
+"xp": "15",
+"hide": true
+
+    },
+
+{
+"type": "execute",
+"command": "execute at @p run playsound minecraft:entity.warden.roar master @p ~ ~ ~ 10 0.6",
+"hide": true
+
+},
+{
+    "type": "execute",
+    "command": "effect give @p minecraft:darkness 8",
+    "hide": true
+    
+    }
+
+
+    ]
+}

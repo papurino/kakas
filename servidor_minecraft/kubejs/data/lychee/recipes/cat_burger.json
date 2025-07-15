@@ -1,0 +1,14 @@
+{
+  "type": "lychee:lightning_channeling",
+  "post": [
+    {
+      "type": "drop_item",
+      "item": "catburger:cat_burger"
+    }
+  ],
+  "item_in": [
+    {
+      "item": "kubejs:cat_burger"
+    }
+  ]
+}

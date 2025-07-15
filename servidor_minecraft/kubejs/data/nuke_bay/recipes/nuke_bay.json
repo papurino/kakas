@@ -1,0 +1,24 @@
+
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ITI",
+    "I I",
+    "   "
+  ],
+  "key": {
+    "T": [
+      {
+        "item": "alexscaves:nuclear_furnace_component"
+      }
+    ],
+    "I": [
+      {
+        "item": "minecraft:netherite_block"
+      }
+    ]
+  },
+  "result": {
+    "item": "nuke_bay:nuke_bay"
+  }
+}

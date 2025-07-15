@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ADA",
+    " G ",
+    "ACA"
+  ],
+  "key": {
+    "D": [
+      {
+        "item": "cgs:steam_engine"
+      }
+    ],
+    "A": [
+      {
+        "item": "minecraft:copper_block"
+      }
+    ],
+    "G": [
+      {
+        "item": "immersive_aircraft:industrial_gears"
+      }
+    ],
+    "C": [
+      {
+        "item": "minecraft:iron_block"
+      }
+    ]
+  },
+  "result": {
+    "item": "immersive_aircraft:rotary_cannon"
+  }
+}

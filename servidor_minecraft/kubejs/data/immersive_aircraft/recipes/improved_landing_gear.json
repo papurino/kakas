@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " II",
+    "CCI",
+    "CC "
+  ],
+  "key": {
+    "C": [
+      {
+        "item": "create:sturdy_sheet"
+      }
+    ],
+    "I": [
+      {
+        "item": "minecraft:iron_block"
+      }
+    ]
+  },
+  "result": {
+    "item": "immersive_aircraft:improved_landing_gear"
+  }
+}

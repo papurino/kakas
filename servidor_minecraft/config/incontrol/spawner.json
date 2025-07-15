@@ -1,0 +1,25 @@
+[{
+    "mob": ["alexsmobs:rocky_roller", "alexsmobs:soul_vulture"], 
+    "persecond": 0.1,
+    "attempts": 1,
+    "amount": {
+      "minimum": 1,
+      "maximum": 3
+    },
+    "conditions": {
+      "dimension": "thegreatbelow:thegreatbelow",
+      "norestrictions": true,
+      "inwater": false, 
+      "inair": false, 
+      "inlava": false,
+      "mindist": 4,
+      "maxdist": 96,
+      "minheight": -64,
+      "maxheight": 319,
+      "maxthis": 2
+    }
+
+
+
+    
+  }]

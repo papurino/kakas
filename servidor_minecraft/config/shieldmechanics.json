@@ -1,0 +1,50 @@
+{
+  "shields": {
+    "desc:": "List of shield items and their damage values. Start the game once to fill these entries with all modded shields automatically. Format: Shield name id;shield damage reduction on block; shield passive damage reduction when just held.E.g. default: [\"minecraft:shield;65;15\"] this give the minecraft shield 65% damage reduction on block, and 15% passive damage reduction when not blocking but held.To put multiple values seperate them by commas like this:  [\"minecraft:shield;65;15\", \"minecraft:shield;65;15\"] ",
+    "shields": [
+      "midnight:tenebrum_shield;65;10",
+      "blue_skies:spike_shield;75;10",
+      "tconstruct:plate_shield;60;10",
+      "legendary_monsters:spiky_shield;80;10",
+      "ars_nouveau:enchanters_shield;70;10",
+      "mekanismtools:osmium_shield;75;20",
+      "alexsmobs:skelewag_sword;60;10",
+      "blue_skies:moonstone_shield;70;10",
+      "cataclysm:black_steel_targe;70;0",
+      "the_bumblezone:honey_crystal_shield;75;10",
+      "dreadsteel:dreadsteel_shield;100;20",
+      "mekanismtools:bronze_shield;60;10",
+      "mekanismtools:refined_glowstone_shield;60;10",
+      "cataclysm:bulwark_of_the_flame;90;15",
+      "legendary_monsters:frostbitten_shield;75;10",
+      "undergarden:cloggrum_shield;65;10",
+      "alexsmobs:shield_of_the_deep;75;10",
+      "midnight:rockshroom_shield;65;10",
+      "minecraft:shield;60;5",
+      "mekanismtools:refined_obsidian_shield;75;10",
+      "legendary_monsters:dinosaur_bone_shield;80;10",
+      "legendary_monsters:shulker_shield;85;10",
+      "immersiveengineering:shield;65;10",
+      "mekanismtools:lapis_lazuli_shield;50;10",
+      "mekanismtools:steel_shield;65;10",
+      "artifacts:umbrella;65;10",
+      "alexscaves:resistor_shield;70;15"
+    ]
+  },
+  "playerOnly": {
+    "desc:": "Should the mechanic changes only affect players, default:false",
+    "playerOnly": false
+  },
+  "blockCooldown": {
+    "desc:": "Shield block cooldown(players only), values are in ticks. 20 ticks = 1 sec, default = 5 ticks(0.25s)",
+    "blockCooldown": 50
+  },
+  "maxblockdamagereduction": {
+    "desc:": "Maximum percent of damage allowed to be blocked. Default:85",
+    "maxblockdamagereduction": 90
+  },
+  "maxpassivedamagereduction": {
+    "desc:": "Maximum percent of passive damage reduction while holding a shield(not blocking). Default:25",
+    "maxpassivedamagereduction": 25
+  }
+}

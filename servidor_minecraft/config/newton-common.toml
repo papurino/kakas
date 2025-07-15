@@ -1,0 +1,9 @@
+
+[Newton]
+	#Max apples that this mod will generate. Once this is reached, all generated apples in the world will be cleared and the generation and counting will be reset
+	#Range: > 0
+	MaxCount = 100
+	#Basic possibility for an apple to appear. Calculation: 1/TheNumberHere
+	#Range: > 0
+	PossibilityNumber = 1500
+

@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "buildinggadgets2",
+  "key": {
+    "d": {
+      "item": "create:brass_sheet"
+    },
+    "i": {
+      "item": "create:zinc_ingot"
+    },
+    "l": {
+      "item": "create:electron_tube"
+    },
+    "r": {
+      "item": "create:precision_mechanism"
+    }
+  },
+  "pattern": [
+    "idi",
+    "drd",
+    "ili"
+  ],
+  "result": {
+    "item": "buildinggadgets2:gadget_building"
+  },
+  "show_notification": true
+}

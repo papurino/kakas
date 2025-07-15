@@ -1,0 +1,35 @@
+{
+  "type": "ars_nouveau:book_upgrade",
+  "ingredients": [
+    {
+      "item": "ars_nouveau:apprentice_spell_book"
+    },
+    {
+      "item": "minecraft:nether_star"
+    },
+    {
+      "item": "ars_nouveau:wilden_tribute"
+    },
+    {
+      "item": "majruszsdifficulty:enderium_ingot"
+    },
+    {
+      "item": "majruszsdifficulty:enderium_ingot"
+    },
+    {
+      "item": "alexsmobs:mimicream"
+    },
+    {
+      "item": "alexsmobs:mimicream"
+    },
+    {
+      "item": "alexsmobs:mimicream"
+    },
+    {
+      "item": "cataclysm:void_stone"
+    }
+  ],
+  "result": {
+    "item": "ars_nouveau:archmage_spell_book"
+  }
+}
